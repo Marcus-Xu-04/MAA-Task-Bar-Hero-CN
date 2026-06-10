@@ -1,0 +1,1105 @@
+[2026-06-08 16:01:45] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-08 16:01:55] Brown chest detected, leave it | confidence=1.00 | location=(533, 151) | region=battle_top
+[2026-06-08 16:02:06] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-08 16:02:16] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-08 16:02:26] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-08 16:02:36] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-08 16:02:46] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-08 16:02:56] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-08 16:03:06] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-08 16:03:16] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-08 16:03:26] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-08 16:03:36] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-08 16:03:46] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-08 16:03:50] BLUE chest detected | confidence=0.94 | location=(502, 745) | region=battle_bottom
+[2026-06-08 16:04:00] BLUE chest detected | confidence=0.94 | location=(502, 151) | region=battle_top
+[2026-06-08 16:14:56] BLUE chest detected | confidence=0.94 | location=(502, 745) | region=battle_bottom
+[2026-06-08 16:15:06] BLUE chest detected | confidence=0.94 | location=(502, 745) | region=battle_bottom
+[2026-06-08 16:15:16] BLUE chest detected | confidence=0.94 | location=(502, 745) | region=battle_bottom
+[2026-06-08 16:15:26] BLUE chest detected | confidence=0.94 | location=(502, 745) | region=battle_bottom
+[2026-06-08 16:19:11] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-08 16:19:21] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-08 16:19:31] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-08 16:19:41] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-08 16:19:51] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-08 16:20:01] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-08 16:22:20] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-08 16:24:20] BLUE chest detected | confidence=0.86 | location=(502, 744) | region=battle_bottom
+[2026-06-08 16:24:21] Brown chest detected, leave it | confidence=1.00 | location=(565, 745) | region=battle_bottom
+[2026-06-08 16:25:49] BLUE chest detected | confidence=0.94 | location=(502, 745) | region=battle_bottom
+[2026-06-08 16:27:04] BLUE chest detected | confidence=0.94 | location=(502, 745) | region=battle_bottom
+[2026-06-08 16:27:26] Advanced to Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-08 16:27:35] Reset timer for Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-08 20:27:38] Brown chest detected, leave it | confidence=1.00 | location=(616, 745) | region=battle_bottom
+[2026-06-08 23:36:00] Brown chest detected, leave it | confidence=1.00 | location=(733, 745) | region=battle_bottom
+[2026-06-08 23:39:29] Advanced to Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-08 23:40:09] Advanced to Route 3 | normal | chapter_3 | 3-8
+[2026-06-08 23:40:51] Advanced to Route 4 | normal | chapter_2 | 2-8
+[2026-06-08 23:41:10] BLUE chest detected | confidence=0.94 | location=(702, 745) | region=battle_bottom
+[2026-06-08 23:41:35] Brown chest detected, leave it | confidence=1.00 | location=(765, 745) | region=battle_bottom
+[2026-06-08 23:52:05] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-08 23:56:10] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 00:08:14] BLUE chest detected | confidence=0.94 | location=(503, 745) | region=battle_bottom
+[2026-06-09 00:08:20] Brown chest detected, leave it | confidence=1.00 | location=(566, 745) | region=battle_bottom
+[2026-06-09 00:20:04] Brown chest detected, leave it | confidence=1.00 | location=(569, 745) | region=battle_bottom
+[2026-06-09 00:22:31] Boss warning confirmed | region=battle_bottom | red_pixels=5391 | confidence=0.86. Blue-drop detector armed.
+[2026-06-09 07:10:06] Brown chest detected, leave it | confidence=1.00 | location=(559, 745) | region=battle_bottom
+[2026-06-09 07:10:09] Boss warning confirmed | region=battle_bottom | red_pixels=8805 | confidence=0.95. Blue-drop detector armed.
+[2026-06-09 07:11:45] Brown chest detected, leave it | confidence=1.00 | location=(559, 745) | region=battle_bottom
+[2026-06-09 07:12:08] Boss warning confirmed | region=battle_bottom | red_pixels=7150 | confidence=0.92. Blue-drop detector armed.
+[2026-06-09 07:13:54] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 07:14:06] Boss warning confirmed | region=battle_bottom | red_pixels=17367 | confidence=0.96. Blue-drop detector armed.
+[2026-06-09 07:15:42] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 07:15:48] Boss warning confirmed | region=battle_bottom | red_pixels=17657 | confidence=0.96. Blue-drop detector armed.
+[2026-06-09 08:56:40] Brown chest detected, leave it | confidence=1.00 | location=(697, 745) | region=battle_bottom
+[2026-06-09 08:58:40] Boss warning confirmed | region=battle_bottom | red_pixels=17391 | confidence=0.95. Blue-drop detector armed.
+[2026-06-09 08:58:44] BLUE chest detected | confidence=0.80 | location=(666, 744) | region=battle_bottom
+[2026-06-09 08:58:45] CONFIRMED BLUE DROP | blue_chest_recent=True | blue_log_recent=True | log_region=log_bottom | blue_pixels=246. DRY RUN: would click chest once and advance route.
+[2026-06-09 08:58:46] Advanced to Route 2 | nightmare | chapter_1 | 1-9 | Entering freeze window.
+[2026-06-09 08:58:51] Freeze ended. Now looking for boss warning.
+[2026-06-09 08:59:02] Brown chest detected, leave it | confidence=1.00 | location=(729, 745) | region=battle_bottom
+[2026-06-09 09:07:03] Brown chest detected, leave it | confidence=1.00 | location=(697, 745) | region=battle_bottom
+[2026-06-09 09:07:59] Brown chest detected, leave it | confidence=1.00 | location=(697, 745) | region=battle_bottom
+[2026-06-09 09:08:29] Boss warning confirmed | region=battle_bottom | red_pixels=17369 | confidence=0.97. Blue-drop detector armed.
+[2026-06-09 09:12:39] Brown chest detected, leave it | confidence=1.00 | location=(620, 745) | region=battle_bottom
+[2026-06-09 09:12:40] Boss warning confirmed | region=battle_bottom | red_pixels=10413 | confidence=0.96. Blue-drop detector armed.
+[2026-06-09 09:13:59] Brown chest detected, leave it | confidence=1.00 | location=(620, 745) | region=battle_bottom
+[2026-06-09 09:14:15] Boss warning confirmed | region=battle_bottom | red_pixels=17381 | confidence=0.93. Blue-drop detector armed.
+[2026-06-09 09:15:40] Brown chest detected, leave it | confidence=1.00 | location=(640, 745) | region=battle_bottom
+[2026-06-09 09:15:51] Boss warning confirmed | region=battle_bottom | red_pixels=17481 | confidence=0.96. Blue-drop detector armed.
+[2026-06-09 09:15:55] BLUE chest detected | confidence=0.94 | location=(609, 745) | region=battle_bottom
+[2026-06-09 09:15:55] CONFIRMED BLUE DROP | blue_chest_recent=True | blue_log_recent=True | log_region=log_bottom | blue_pixels=252.
+[2026-06-09 09:15:56] DRY RUN: would click blue chest once.
+[2026-06-09 09:15:56] Advanced to Route 2 | nightmare | chapter_1 | 1-9 | Entering freeze window.
+[2026-06-09 09:16:01] Freeze ended. Now looking for boss warning.
+[2026-06-09 09:20:18] Brown chest detected, leave it | confidence=1.00 | location=(597, 745) | region=battle_bottom
+[2026-06-09 09:23:43] Boss warning confirmed | region=battle_bottom | red_pixels=7931 | confidence=0.94. Blue-drop detector armed.
+[2026-06-09 09:28:11] BLUE chest detected | confidence=0.94 | location=(502, 745) | region=battle_bottom
+[2026-06-09 09:28:11] CONFIRMED BLUE DROP | blue_chest_recent=True | blue_log_recent=True | log_region=log_bottom | blue_pixels=234.
+[2026-06-09 09:28:12] Clicking blue chest once | local=(502, 745) | screen=(1402, 702) | confidence=0.94
+[2026-06-09 09:28:12] Blue chest click completed.
+[2026-06-09 09:28:12] Advanced to Route 2 | nightmare | chapter_1 | 1-9 | Entering freeze window.
+[2026-06-09 09:28:17] Freeze ended. Now looking for boss warning.
+[2026-06-09 09:37:22] BLUE chest detected | confidence=0.94 | location=(502, 745) | region=battle_bottom
+[2026-06-09 09:37:31] Brown chest detected, leave it | confidence=1.00 | location=(565, 745) | region=battle_bottom
+[2026-06-09 09:39:05] Boss warning confirmed | region=battle_bottom | red_pixels=4534 | confidence=0.91. Blue-drop detector armed.
+[2026-06-09 09:43:51] BLUE chest detected | confidence=0.94 | location=(502, 745) | region=battle_bottom
+[2026-06-09 09:43:52] CONFIRMED BLUE DROP | blue_chest_recent=True | blue_log_recent=True | log_region=log_bottom | blue_pixels=255.
+[2026-06-09 09:43:53] Blue drop confirmed. Waiting 0.8s before clicking chest.
+[2026-06-09 09:43:54] Clicking blue chest | local=(502, 745) | screen=(584, 926) | confidence=0.94
+[2026-06-09 09:43:55] Blue chest click completed.
+[2026-06-09 09:43:55] Advanced to Route 2 | nightmare | chapter_1 | 1-9 | Entering freeze window.
+[2026-06-09 09:43:55] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 09:44:00] Freeze ended. Now looking for boss warning.
+[2026-06-09 09:59:54] Brown chest detected, leave it | confidence=1.00 | location=(698, 745) | region=battle_bottom
+[2026-06-09 10:03:28] Boss warning confirmed | region=battle_bottom | red_pixels=17369 | confidence=0.97. Blue-drop detector armed.
+[2026-06-09 10:03:34] BLUE chest detected | confidence=0.94 | location=(502, 745) | region=battle_bottom
+[2026-06-09 10:03:35] CONFIRMED BLUE DROP | blue_chest_recent=True | blue_log_recent=True | log_region=log_bottom | blue_pixels=226.
+[2026-06-09 10:03:36] Blue drop confirmed. Waiting 0.8s before clicking chest.
+[2026-06-09 10:03:37] Clicking blue chest | local=(502, 745) | screen=(200, 999) | confidence=0.94
+[2026-06-09 10:03:37] Window focus warning: (183, 'SetForegroundWindow', 'Cannot create a file when that file already exists.')
+[2026-06-09 10:03:38] Blue chest click completed.
+[2026-06-09 10:03:38] Advanced to Route 2 | nightmare | chapter_1 | 1-9 | Entering freeze window.
+[2026-06-09 10:03:38] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 10:03:43] Freeze ended. Now looking for boss warning.
+[2026-06-09 10:28:31] Brown chest detected, leave it | confidence=1.00 | location=(743, 745) | region=battle_bottom
+[2026-06-09 10:28:52] Boss warning confirmed | region=battle_bottom | red_pixels=6348 | confidence=0.91. Blue-drop detector armed.
+[2026-06-09 10:29:00] BLUE chest detected | confidence=0.94 | location=(712, 745) | region=battle_bottom
+[2026-06-09 10:29:01] CONFIRMED BLUE DROP | blue_chest_recent=True | blue_log_recent=True | log_region=log_bottom | blue_pixels=233.
+[2026-06-09 10:29:02] Blue drop confirmed. Waiting 0.8s before clicking chest.
+[2026-06-09 10:29:03] Clicking blue chest | mouse_before=(-374, 414) | local=(705, 742) | screen=(1655, 782) | blue_box=(684,726)-(740,764) | confidence=0.94
+[2026-06-09 10:29:04] Blue chest click completed.
+[2026-06-09 10:29:04] Advanced to Route 2 | nightmare | chapter_1 | 1-9 | Entering freeze window.
+[2026-06-09 10:29:04] Brown chest detected, leave it | confidence=1.00 | location=(743, 745) | region=battle_bottom
+[2026-06-09 10:29:09] Freeze ended. Now looking for boss warning.
+[2026-06-09 11:09:49] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 11:15:29] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 11:15:49] Advanced to Route 2 | nightmare | chapter_1 | 1-9 | Entering freeze window.
+[2026-06-09 11:15:55] Freeze ended. Now looking for boss warning.
+[2026-06-09 11:15:56] Manual visual nav test for Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 11:15:58] Scrolled map up
+[2026-06-09 11:15:59] NAV found level 1-9 in top view | confidence=0.82 | center=(855, 579)
+[2026-06-09 11:15:59] DRY RUN NAV: would click level 1-9 at local=(855, 579)
+[2026-06-09 11:16:15] Manual visual nav test for Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 11:16:17] Scrolled map up
+[2026-06-09 11:16:17] NAV found level 1-9 in top view | confidence=1.00 | center=(792, 491)
+[2026-06-09 11:16:17] DRY RUN NAV: would click level 1-9 at local=(792, 491)
+[2026-06-09 11:17:32] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 11:17:35] Advanced to Route 2 | nightmare | chapter_1 | 1-9 | Entering freeze window.
+[2026-06-09 11:17:36] Manual visual nav test for Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 11:17:38] Scrolled map up
+[2026-06-09 11:17:39] NAV found level 1-9 in top view | confidence=1.00 | center=(792, 491)
+[2026-06-09 11:17:39] Click window point | label=level_1-9 | local=(792, 491) | screen=(1578, 546)
+[2026-06-09 11:17:40] Freeze ended. Now looking for boss warning.
+[2026-06-09 11:19:22] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 11:19:48] Manual visual nav test for Route 1 | nightmare | chapter_3 | 3-5
+[2026-06-09 11:19:50] Scrolled map up
+[2026-06-09 11:19:51] NAV did not find level 3-5 in top view | best_confidence=0.72
+[2026-06-09 11:19:53] Scrolled map down
+[2026-06-09 11:19:53] NAV FAILED: could not find level 3-5 | bottom_best_confidence=0.72
+[2026-06-09 11:20:02] Manual visual nav test for Route 1 | nightmare | chapter_3 | 3-5
+[2026-06-09 11:20:04] Scrolled map up
+[2026-06-09 11:20:05] NAV found level 3-5 in top view | confidence=1.00 | center=(837, 597)
+[2026-06-09 11:20:05] Click window point | label=level_3-5 | local=(837, 597) | screen=(1623, 652)
+[2026-06-09 11:20:22] Advanced to Route 2 | nightmare | chapter_1 | 1-9 | Entering freeze window.
+[2026-06-09 11:20:26] Manual visual nav test for Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 11:20:28] Scrolled map up
+[2026-06-09 11:20:28] NAV found level 1-9 in top view | confidence=0.82 | center=(855, 579)
+[2026-06-09 11:20:28] Click window point | label=level_1-9 | local=(855, 579) | screen=(1641, 634)
+[2026-06-09 11:20:29] Freeze ended. Now looking for boss warning.
+[2026-06-09 11:20:38] Advanced to Route 3 | normal | chapter_3 | 3-8 | Entering freeze window.
+[2026-06-09 11:20:41] Manual visual nav test for Route 3 | normal | chapter_3 | 3-8
+[2026-06-09 11:20:43] Scrolled map up
+[2026-06-09 11:20:43] NAV found level 3-8 in top view | confidence=1.00 | center=(866, 523)
+[2026-06-09 11:20:43] Click window point | label=level_3-8 | local=(866, 523) | screen=(1652, 578)
+[2026-06-09 11:20:44] Freeze ended. Now looking for boss warning.
+[2026-06-09 11:20:53] Advanced to Route 4 | normal | chapter_2 | 2-8 | Entering freeze window.
+[2026-06-09 11:20:57] Manual visual nav test for Route 4 | normal | chapter_2 | 2-8
+[2026-06-09 11:20:59] Scrolled map up
+[2026-06-09 11:21:00] NAV found level 2-8 in top view | confidence=1.00 | center=(845, 529)
+[2026-06-09 11:21:00] Click window point | label=level_2-8 | local=(845, 529) | screen=(1631, 584)
+[2026-06-09 11:21:01] Freeze ended. Now looking for boss warning.
+[2026-06-09 11:21:05] Advanced to Route 5 | normal | chapter_2 | 2-3 | Entering freeze window.
+[2026-06-09 11:21:06] Manual visual nav test for Route 5 | normal | chapter_2 | 2-3
+[2026-06-09 11:21:08] Scrolled map up
+[2026-06-09 11:21:08] NAV found level 2-3 in top view | confidence=0.86 | center=(844, 529)
+[2026-06-09 11:21:08] Click window point | label=level_2-3 | local=(844, 529) | screen=(1630, 584)
+[2026-06-09 11:21:10] Freeze ended. Now looking for boss warning.
+[2026-06-09 11:21:20] Manual visual nav test for Route 5 | normal | chapter_2 | 2-3
+[2026-06-09 11:21:22] Scrolled map up
+[2026-06-09 11:21:22] NAV found level 2-3 in top view | confidence=0.86 | center=(844, 529)
+[2026-06-09 11:21:22] Click window point | label=level_2-3 | local=(844, 529) | screen=(1630, 584)
+[2026-06-09 11:35:44] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 11:35:46] Advanced to Route 2 | nightmare | chapter_1 | 1-9 | Entering freeze window.
+[2026-06-09 11:35:47] Advanced to Route 3 | normal | chapter_3 | 3-8 | Entering freeze window.
+[2026-06-09 11:35:47] Advanced to Route 4 | normal | chapter_2 | 2-8 | Entering freeze window.
+[2026-06-09 11:35:47] Advanced to Route 5 | normal | chapter_2 | 2-3 | Entering freeze window.
+[2026-06-09 11:35:51] Manual visual nav test for Route 5 | normal | chapter_2 | 2-3
+[2026-06-09 11:35:53] Scrolled map up | scroll_point_local=(730, 465) | scroll_point_screen=(1516, 520)
+[2026-06-09 11:35:53] NAV found level 2-3 in top view | confidence=1.00 | center=(864, 619) | box=(849, 612)-(879, 627)
+[2026-06-09 11:35:53] Clicking level white dot | route=2-3 | text_box=(849,612)-(879,627) | text_size=(30,15) | dot_target=(816, 619)
+[2026-06-09 11:35:53] Click window point | label=level_dot_2-3 | local=(816, 619) | screen=(1602, 674)
+[2026-06-09 11:35:54] Freeze ended. Now looking for boss warning.
+[2026-06-09 11:36:01] Manual visual nav test for Route 5 | normal | chapter_2 | 2-3
+[2026-06-09 11:36:03] Scrolled map up | scroll_point_local=(730, 465) | scroll_point_screen=(1516, 520)
+[2026-06-09 11:36:03] NAV found level 2-3 in top view | confidence=0.86 | center=(844, 529) | box=(829, 522)-(859, 537)
+[2026-06-09 11:36:03] Clicking level white dot | route=2-3 | text_box=(829,522)-(859,537) | text_size=(30,15) | dot_target=(796, 529)
+[2026-06-09 11:36:03] Click window point | label=level_dot_2-3 | local=(796, 529) | screen=(1582, 584)
+[2026-06-09 11:36:08] Boss warning confirmed | region=battle_bottom | red_pixels=7508 | confidence=0.96. Blue-drop detector armed.
+[2026-06-09 11:36:16] Manual visual nav test for Route 5 | normal | chapter_2 | 2-3
+[2026-06-09 11:36:18] Scrolled map up | scroll_point_local=(730, 465) | scroll_point_screen=(1516, 520)
+[2026-06-09 11:36:18] NAV found level 2-3 in top view | confidence=0.86 | center=(844, 529) | box=(829, 522)-(859, 537)
+[2026-06-09 11:36:18] Clicking level white dot | route=2-3 | text_box=(829,522)-(859,537) | text_size=(30,15) | dot_target=(796, 529)
+[2026-06-09 11:36:18] Click window point | label=level_dot_2-3 | local=(796, 529) | screen=(1582, 584)
+[2026-06-09 11:40:55] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 11:40:59] Advanced to Route 2 | nightmare | chapter_1 | 1-9 | Entering freeze window.
+[2026-06-09 11:40:59] Advanced to Route 3 | normal | chapter_3 | 3-8 | Entering freeze window.
+[2026-06-09 11:40:59] Advanced to Route 4 | normal | chapter_2 | 2-8 | Entering freeze window.
+[2026-06-09 11:41:00] Advanced to Route 5 | normal | chapter_2 | 2-3 | Entering freeze window.
+[2026-06-09 11:41:02] Manual visual nav test for Route 5 | normal | chapter_2 | 2-3
+[2026-06-09 11:41:04] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(1535, 520) | repeat=10
+[2026-06-09 11:41:05] NAV found level 2-3 in down view | confidence=0.99 | threshold=0.95 | center=(864, 654) | box=(849, 647)-(879, 662)
+[2026-06-09 11:41:05] Clicking level white dot | route=2-3 | text_box=(849,647)-(879,662) | text_size=(30,15) | dot_target=(816, 654)
+[2026-06-09 11:41:05] DRY RUN NAV: would click white dot for level 2-3 at local=(816, 654)
+[2026-06-09 11:41:05] Freeze ended. Now looking for boss warning.
+[2026-06-09 11:42:22] Boss warning confirmed | region=battle_bottom | red_pixels=17377 | confidence=0.96. Blue-drop detector armed.
+[2026-06-09 11:42:38] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 11:42:43] Advanced to Route 2 | nightmare | chapter_1 | 1-9 | Entering freeze window.
+[2026-06-09 11:42:44] Advanced to Route 3 | normal | chapter_3 | 3-8 | Entering freeze window.
+[2026-06-09 11:42:44] Advanced to Route 4 | normal | chapter_2 | 2-8 | Entering freeze window.
+[2026-06-09 11:42:44] Advanced to Route 5 | normal | chapter_2 | 2-3 | Entering freeze window.
+[2026-06-09 11:42:45] Manual visual nav test for Route 5 | normal | chapter_2 | 2-3
+[2026-06-09 11:42:49] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(1535, 520) | repeat=20
+[2026-06-09 11:42:49] NAV found level 2-3 in down view | confidence=1.00 | threshold=0.95 | center=(864, 629) | box=(849, 622)-(879, 637)
+[2026-06-09 11:42:49] Clicking level white dot | route=2-3 | text_box=(849,622)-(879,637) | text_size=(30,15) | dot_target=(816, 629)
+[2026-06-09 11:42:49] DRY RUN NAV: would click white dot for level 2-3 at local=(816, 629)
+[2026-06-09 11:42:49] Freeze ended. Now looking for boss warning.
+[2026-06-09 11:44:29] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 11:44:31] Advanced to Route 2 | nightmare | chapter_1 | 1-9 | Entering freeze window.
+[2026-06-09 11:44:31] Advanced to Route 3 | normal | chapter_3 | 3-8 | Entering freeze window.
+[2026-06-09 11:44:31] Advanced to Route 4 | normal | chapter_2 | 2-8 | Entering freeze window.
+[2026-06-09 11:44:32] Advanced to Route 5 | normal | chapter_2 | 2-3 | Entering freeze window.
+[2026-06-09 11:44:33] Manual visual nav test for Route 5 | normal | chapter_2 | 2-3
+[2026-06-09 11:44:45] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(1535, 520) | repeat=80
+[2026-06-09 11:44:45] NAV rejected/not found level 2-3 in down view | best_confidence=0.94 | threshold=0.95
+[2026-06-09 11:44:58] Scrolled map up | scroll_point_local=(749, 465) | scroll_point_screen=(1535, 520) | repeat=80
+[2026-06-09 11:44:58] NAV rejected/not found level 2-3 in up view | best_confidence=0.86 | threshold=0.95
+[2026-06-09 11:44:58] NAV FAILED: could not find level 2-3 after ['down', 'up']
+[2026-06-09 11:44:58] Freeze ended. Now looking for boss warning.
+[2026-06-09 11:46:16] Manual visual nav test for Route 5 | normal | chapter_2 | 2-3
+[2026-06-09 11:46:29] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(1535, 520) | repeat=80
+[2026-06-09 11:46:29] NAV rejected/not found level 2-3 in down view | best_confidence=0.94 | threshold=0.95
+[2026-06-09 11:57:33] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 11:57:41] Advanced to Route 2 | nightmare | chapter_1 | 1-9 | Entering freeze window.
+[2026-06-09 11:57:41] Advanced to Route 3 | normal | chapter_3 | 3-8 | Entering freeze window.
+[2026-06-09 11:57:41] Advanced to Route 4 | normal | chapter_2 | 2-8 | Entering freeze window.
+[2026-06-09 11:57:41] Advanced to Route 5 | normal | chapter_2 | 2-3 | Entering freeze window.
+[2026-06-09 11:57:46] Manual visual nav test for Route 5 | normal | chapter_2 | 2-3
+[2026-06-09 11:57:50] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(1535, 521) | repeat=20
+[2026-06-09 11:57:50] NAV found level 2-3 | direction=down | chunk=1/4 | confidence=1.00 | threshold=0.95 | center=(864, 639) | box=(849, 632)-(879, 647)
+[2026-06-09 11:57:50] Clicking level white dot | route=2-3 | text_box=(849,632)-(879,647) | text_size=(30,15) | dot_target=(816, 639)
+[2026-06-09 11:57:50] DRY RUN NAV: would click white dot for level 2-3 at local=(816, 639)
+[2026-06-09 11:57:50] Freeze ended. Now looking for boss warning.
+[2026-06-09 11:58:12] Manual visual nav test for Route 5 | normal | chapter_2 | 2-3
+[2026-06-09 11:58:16] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(1535, 521) | repeat=20
+[2026-06-09 11:58:16] NAV not found level 2-3 | direction=down | chunk=1/4 | best_confidence=0.94 | threshold=0.95
+[2026-06-09 11:58:20] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(1535, 521) | repeat=20
+[2026-06-09 11:58:20] NAV not found level 2-3 | direction=down | chunk=2/4 | best_confidence=0.94 | threshold=0.95
+[2026-06-09 11:58:24] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(1535, 521) | repeat=20
+[2026-06-09 11:58:25] NAV not found level 2-3 | direction=down | chunk=3/4 | best_confidence=0.94 | threshold=0.95
+[2026-06-09 11:58:28] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(1535, 521) | repeat=20
+[2026-06-09 11:58:29] NAV not found level 2-3 | direction=down | chunk=4/4 | best_confidence=0.94 | threshold=0.95
+[2026-06-09 11:58:33] Scrolled map up | scroll_point_local=(749, 465) | scroll_point_screen=(1535, 521) | repeat=20
+[2026-06-09 11:58:33] NAV not found level 2-3 | direction=up | chunk=1/4 | best_confidence=0.94 | threshold=0.95
+[2026-06-09 11:58:37] Scrolled map up | scroll_point_local=(749, 465) | scroll_point_screen=(1535, 521) | repeat=20
+[2026-06-09 11:58:37] NAV not found level 2-3 | direction=up | chunk=2/4 | best_confidence=0.94 | threshold=0.95
+[2026-06-09 11:58:41] Scrolled map up | scroll_point_local=(749, 465) | scroll_point_screen=(1535, 521) | repeat=20
+[2026-06-09 11:58:41] NAV not found level 2-3 | direction=up | chunk=3/4 | best_confidence=0.80 | threshold=0.95
+[2026-06-09 11:58:45] Scrolled map up | scroll_point_local=(749, 465) | scroll_point_screen=(1535, 521) | repeat=20
+[2026-06-09 11:58:46] NAV not found level 2-3 | direction=up | chunk=4/4 | best_confidence=0.86 | threshold=0.95
+[2026-06-09 11:58:49] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(1535, 521) | repeat=20
+[2026-06-09 11:58:50] NAV not found level 2-3 | direction=down | chunk=1/4 | best_confidence=0.86 | threshold=0.95
+[2026-06-09 11:58:54] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(1535, 521) | repeat=20
+[2026-06-09 11:58:54] NAV found level 2-3 | direction=down | chunk=2/4 | confidence=1.00 | threshold=0.95 | center=(864, 631) | box=(849, 624)-(879, 639)
+[2026-06-09 11:58:54] Clicking level white dot | route=2-3 | text_box=(849,624)-(879,639) | text_size=(30,15) | dot_target=(816, 631)
+[2026-06-09 11:58:54] DRY RUN NAV: would click white dot for level 2-3 at local=(816, 631)
+[2026-06-09 12:00:23] Boss warning confirmed | region=battle_bottom | red_pixels=11249 | confidence=0.95. Blue-drop detector armed.
+[2026-06-09 12:04:46] BLUE chest detected | confidence=0.94 | location=(502, 745) | region=battle_bottom
+[2026-06-09 12:04:47] CONFIRMED BLUE DROP | blue_chest_recent=True | blue_log_recent=True | log_region=log_bottom | blue_pixels=236.
+[2026-06-09 12:04:48] Blue drop confirmed. Waiting 0.8s before clicking chest.
+[2026-06-09 12:04:49] Clicking blue chest | mouse_before=(-677, 717) | local=(495, 742) | screen=(1281, 798) | blue_box=(474,726)-(530,764) | confidence=0.94
+[2026-06-09 12:04:50] Blue chest click completed.
+[2026-06-09 12:04:50] Advanced to Route 1 | nightmare | chapter_3 | 3-5 | Entering freeze window.
+[2026-06-09 12:04:50] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 12:04:55] Freeze ended. Now looking for boss warning.
+[2026-06-09 12:08:06] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 12:08:11] Advanced to Route 2 | nightmare | chapter_1 | 1-9 | Entering freeze window.
+[2026-06-09 12:08:16] Freeze ended. Now looking for boss warning.
+[2026-06-09 12:08:22] Manual visual nav test for Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 12:08:25] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(1535, 521) | repeat=20
+[2026-06-09 12:08:26] NAV found level 1-9 | direction=down | chunk=1/4 | confidence=0.97 | threshold=0.88 | center=(792, 451) | box=(777, 444)-(808, 459)
+[2026-06-09 12:08:26] NAV DOT FAILED: could not find white dot left of level 1-9 | dot_best_confidence=0.51 | text_box=(777,444)-(808,459)
+[2026-06-09 12:08:38] Advanced to Route 3 | normal | chapter_3 | 3-8 | Entering freeze window.
+[2026-06-09 12:08:43] Freeze ended. Now looking for boss warning.
+[2026-06-09 12:08:48] Manual visual nav test for Route 3 | normal | chapter_3 | 3-8
+[2026-06-09 12:08:52] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(1535, 521) | repeat=20
+[2026-06-09 12:08:53] NAV found level 3-8 | direction=down | chunk=1/4 | confidence=1.00 | threshold=0.88 | center=(866, 443) | box=(851, 436)-(882, 451)
+[2026-06-09 12:08:53] Found level white dot | route=3-8 | dot_center=(834, 441) | dot_confidence=1.00 | text_box=(851,436)-(882,451)
+[2026-06-09 12:08:53] DRY RUN NAV: would click detected white dot for level 3-8 at local=(834, 441)
+[2026-06-09 12:22:41] BLUE chest detected | confidence=0.94 | location=(510, 745) | region=battle_bottom
+[2026-06-09 12:22:45] Brown chest detected, leave it | confidence=1.00 | location=(573, 745) | region=battle_bottom
+[2026-06-09 12:22:58] Advanced to Route 2 | nightmare | chapter_1 | 1-9 | Entering freeze window.
+[2026-06-09 12:22:58] Advanced to Route 3 | normal | chapter_3 | 3-8 | Entering freeze window.
+[2026-06-09 12:22:58] Advanced to Route 4 | normal | chapter_2 | 2-8 | Entering freeze window.
+[2026-06-09 12:22:59] Advanced to Route 5 | normal | chapter_2 | 2-3 | Entering freeze window.
+[2026-06-09 12:23:04] Freeze ended. Now looking for boss warning.
+[2026-06-09 12:23:13] Manual visual nav test for Route 5 | normal | chapter_2 | 2-3
+[2026-06-09 12:23:16] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(1699, 554) | repeat=20
+[2026-06-09 12:23:17] NAV found level 2-3 | direction=down | chunk=1/4 | confidence=1.00 | threshold=0.92 | center=(864, 579) | box=(849, 572)-(879, 587)
+[2026-06-09 12:23:17] DOT SEARCH DEBUG | type=green | text_box=(849,572)-(879,587) | search_box=(795,530)-(847,629) | best_dot=(806, 596) | confidence=0.27 | threshold=0.65
+[2026-06-09 12:23:17] DOT SEARCH DEBUG | type=white | text_box=(849,572)-(879,587) | search_box=(795,530)-(847,629) | best_dot=(832, 577) | confidence=1.00 | threshold=0.65
+[2026-06-09 12:23:17] Found selectable white dot | route=2-3 | dot_center=(832, 577) | confidence=1.00
+[2026-06-09 12:23:17] Click window point | label=level_dot_2-3 | local=(832, 577) | screen=(1782, 666)
+[2026-06-09 12:23:19] DOT SEARCH DEBUG | type=green_after_click | text_box=(849,572)-(879,587) | search_box=(795,530)-(847,629) | best_dot=(832, 578) | confidence=0.98 | threshold=0.65
+[2026-06-09 12:23:19] NAV verified after click: level selected | route=2-3 | green_dot=(832, 578) | confidence=0.98
+[2026-06-09 12:30:15] Brown chest detected, leave it | confidence=1.00 | location=(541, 745) | region=battle_bottom
+[2026-06-09 12:30:23] Boss warning confirmed | region=battle_bottom | red_pixels=10700 | confidence=0.96. Blue-drop detector armed.
+[2026-06-09 12:52:59] BLUE chest detected | confidence=0.93 | location=(502, 745) | region=battle_bottom
+[2026-06-09 12:52:59] CONFIRMED BLUE DROP | blue_chest_recent=True | blue_log_recent=True | log_region=log_bottom | blue_pixels=199.
+[2026-06-09 12:53:00] Blue drop confirmed. Waiting 0.8s before clicking chest.
+[2026-06-09 12:53:01] Clicking blue chest | mouse_before=(-353, 1227) | local=(495, 742) | screen=(1322, 858) | blue_box=(474,726)-(530,764) | confidence=0.93
+[2026-06-09 12:53:03] Blue chest click completed.
+[2026-06-09 12:53:03] Advanced to Route 2 | nightmare | chapter_1 | 1-9 | Entering freeze window.
+[2026-06-09 12:53:03] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 12:53:08] Freeze ended. Now looking for boss warning.
+[2026-06-09 12:58:29] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 12:58:36] Advanced to Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 12:58:36] Entering freeze window.
+[2026-06-09 12:58:36] Manual route advance triggered.
+[2026-06-09 12:58:40] Advanced to Route 3 | normal | chapter_3 | 3-8
+[2026-06-09 12:58:40] Entering freeze window.
+[2026-06-09 12:58:40] Manual route advance triggered.
+[2026-06-09 12:58:45] Freeze ended. Now looking for boss warning.
+[2026-06-09 13:00:19] Boss warning confirmed | region=battle_bottom | red_pixels=17573 | confidence=0.96. Blue-drop detector armed.
+[2026-06-09 13:04:24] BLUE chest detected | confidence=0.94 | location=(537, 745) | region=battle_bottom
+[2026-06-09 13:04:24] CONFIRMED BLUE DROP | blue_chest_recent=True | blue_log_recent=True | log_region=log_bottom | blue_pixels=252.
+[2026-06-09 13:04:25] Blue drop confirmed. Waiting 0.8s before clicking chest.
+[2026-06-09 13:04:26] Clicking blue chest | mouse_before=(-201, 766) | local=(530, 742) | screen=(1480, 907) | blue_box=(509,726)-(565,764) | confidence=0.94
+[2026-06-09 13:04:27] Blue chest click completed.
+[2026-06-09 13:04:27] Advanced to Route 4 | normal | chapter_2 | 2-8
+[2026-06-09 13:04:28] Starting route navigation | target=normal | chapter_2 | 2-8
+[2026-06-09 13:04:32] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(1699, 630) | repeat=20
+[2026-06-09 13:04:33] NAV not found level 2-8 | direction=down | chunk=1/4 | best_confidence=0.73 | threshold=0.88
+[2026-06-09 13:04:36] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(1699, 630) | repeat=20
+[2026-06-09 13:04:37] NAV not found level 2-8 | direction=down | chunk=2/4 | best_confidence=0.73 | threshold=0.88
+[2026-06-09 13:04:41] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(1699, 630) | repeat=20
+[2026-06-09 13:04:41] NAV not found level 2-8 | direction=down | chunk=3/4 | best_confidence=0.73 | threshold=0.88
+[2026-06-09 13:04:45] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(1699, 630) | repeat=20
+[2026-06-09 13:04:45] NAV not found level 2-8 | direction=down | chunk=4/4 | best_confidence=0.71 | threshold=0.88
+[2026-06-09 13:04:49] Scrolled map up | scroll_point_local=(749, 465) | scroll_point_screen=(1699, 630) | repeat=20
+[2026-06-09 13:04:50] NAV not found level 2-8 | direction=up | chunk=1/4 | best_confidence=0.71 | threshold=0.88
+[2026-06-09 13:04:53] Scrolled map up | scroll_point_local=(749, 465) | scroll_point_screen=(1699, 630) | repeat=20
+[2026-06-09 13:04:54] NAV not found level 2-8 | direction=up | chunk=2/4 | best_confidence=0.71 | threshold=0.88
+[2026-06-09 13:04:58] Scrolled map up | scroll_point_local=(749, 465) | scroll_point_screen=(1699, 630) | repeat=20
+[2026-06-09 13:04:58] NAV not found level 2-8 | direction=up | chunk=3/4 | best_confidence=0.69 | threshold=0.88
+[2026-06-09 13:05:02] Scrolled map up | scroll_point_local=(749, 465) | scroll_point_screen=(1699, 630) | repeat=20
+[2026-06-09 13:05:02] NAV not found level 2-8 | direction=up | chunk=4/4 | best_confidence=0.72 | threshold=0.88
+[2026-06-09 13:05:06] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(1699, 630) | repeat=20
+[2026-06-09 13:05:07] NAV not found level 2-8 | direction=down | chunk=1/4 | best_confidence=0.73 | threshold=0.88
+[2026-06-09 13:05:10] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(1699, 630) | repeat=20
+[2026-06-09 13:05:11] NAV found level 2-8 | direction=down | chunk=2/4 | confidence=1.00 | threshold=0.88 | center=(845, 525) | box=(830, 518)-(860, 532)
+[2026-06-09 13:05:11] DOT SEARCH DEBUG | type=green | text_box=(830,518)-(860,532) | search_box=(776,479)-(828,571) | best_dot=(798, 506) | confidence=0.25 | threshold=0.65
+[2026-06-09 13:05:11] DOT SEARCH DEBUG | type=white | text_box=(830,518)-(860,532) | search_box=(776,479)-(828,571) | best_dot=(812, 523) | confidence=1.00 | threshold=0.65
+[2026-06-09 13:05:11] Found selectable white dot | route=2-8 | dot_center=(812, 523) | confidence=1.00
+[2026-06-09 13:05:11] Click window point | label=level_dot_2-8 | local=(812, 523) | screen=(1762, 688)
+[2026-06-09 13:05:13] DOT SEARCH DEBUG | type=green_after_click | text_box=(830,518)-(860,532) | search_box=(776,479)-(828,571) | best_dot=(812, 524) | confidence=0.99 | threshold=0.65
+[2026-06-09 13:05:13] NAV verified after click: level selected | route=2-8 | green_dot=(812, 524) | confidence=0.99
+[2026-06-09 13:05:13] Route navigation completed for Route 4 | 2-8
+[2026-06-09 13:05:13] Entering freeze window.
+[2026-06-09 13:05:13] Brown chest detected, leave it | confidence=1.00 | location=(568, 745) | region=battle_bottom
+[2026-06-09 13:05:18] Freeze ended. Now looking for boss warning.
+[2026-06-09 13:06:39] Boss warning confirmed | region=battle_bottom | red_pixels=9778 | confidence=0.95. Blue-drop detector armed.
+[2026-06-09 13:06:43] BLUE chest detected | confidence=0.94 | location=(537, 745) | region=battle_bottom
+[2026-06-09 13:06:44] CONFIRMED BLUE DROP | blue_chest_recent=True | blue_log_recent=True | log_region=log_bottom | blue_pixels=255.
+[2026-06-09 13:06:45] Blue drop confirmed. Waiting 0.8s before clicking chest.
+[2026-06-09 13:06:46] Clicking blue chest | mouse_before=(-1800, 652) | local=(530, 742) | screen=(1480, 907) | blue_box=(509,726)-(565,764) | confidence=0.94
+[2026-06-09 13:06:47] Blue chest click completed.
+[2026-06-09 13:06:47] Advanced to Route 5 | normal | chapter_2 | 2-3
+[2026-06-09 13:06:48] Starting route navigation | target=normal | chapter_2 | 2-3
+[2026-06-09 13:06:52] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(1699, 630) | repeat=20
+[2026-06-09 13:06:52] NAV found level 2-3 | direction=down | chunk=1/4 | confidence=1.00 | threshold=0.92 | center=(864, 635) | box=(849, 628)-(879, 643)
+[2026-06-09 13:06:52] DOT SEARCH DEBUG | type=green | text_box=(849,628)-(879,643) | search_box=(795,586)-(847,680) | best_dot=(806, 652) | confidence=0.30 | threshold=0.65
+[2026-06-09 13:06:52] DOT SEARCH DEBUG | type=white | text_box=(849,628)-(879,643) | search_box=(795,586)-(847,680) | best_dot=(832, 633) | confidence=1.00 | threshold=0.65
+[2026-06-09 13:06:52] Found selectable white dot | route=2-3 | dot_center=(832, 633) | confidence=1.00
+[2026-06-09 13:06:52] Click window point | label=level_dot_2-3 | local=(832, 633) | screen=(1782, 798)
+[2026-06-09 13:06:54] DOT SEARCH DEBUG | type=green_after_click | text_box=(849,628)-(879,643) | search_box=(795,586)-(847,680) | best_dot=(832, 634) | confidence=0.98 | threshold=0.65
+[2026-06-09 13:06:54] NAV verified after click: level selected | route=2-3 | green_dot=(832, 634) | confidence=0.98
+[2026-06-09 13:06:54] Route navigation completed for Route 5 | 2-3
+[2026-06-09 13:06:54] Entering freeze window.
+[2026-06-09 13:06:54] Brown chest detected, leave it | confidence=1.00 | location=(568, 745) | region=battle_bottom
+[2026-06-09 13:06:59] Freeze ended. Now looking for boss warning.
+[2026-06-09 14:08:46] Brown chest detected, leave it | confidence=1.00 | location=(573, 745) | region=battle_bottom
+[2026-06-09 14:09:09] Boss warning confirmed | region=battle_bottom | red_pixels=6216 | confidence=0.93. Blue-drop detector armed.
+[2026-06-09 14:09:49] Advanced to Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 14:09:49] Entering freeze window.
+[2026-06-09 14:09:49] Manual route advance triggered.
+[2026-06-09 14:09:54] Freeze ended. Now looking for boss warning.
+[2026-06-09 14:09:54] Manual visual nav test for Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 14:09:58] Scrolled map up | scroll_point_local=(749, 465) | scroll_point_screen=(1699, 684) | repeat=20
+[2026-06-09 14:09:58] NAV not found level 1-9 | direction=up | chunk=1/4 | best_confidence=0.71 | threshold=0.88
+[2026-06-09 14:10:02] Scrolled map up | scroll_point_local=(749, 465) | scroll_point_screen=(1699, 684) | repeat=20
+[2026-06-09 14:10:02] NAV not found level 1-9 | direction=up | chunk=2/4 | best_confidence=0.71 | threshold=0.88
+[2026-06-09 14:10:06] Scrolled map up | scroll_point_local=(749, 465) | scroll_point_screen=(1699, 684) | repeat=20
+[2026-06-09 14:10:06] NAV not found level 1-9 | direction=up | chunk=3/4 | best_confidence=0.71 | threshold=0.88
+[2026-06-09 14:10:10] Scrolled map up | scroll_point_local=(749, 465) | scroll_point_screen=(1699, 684) | repeat=20
+[2026-06-09 14:10:11] NAV not found level 1-9 | direction=up | chunk=4/4 | best_confidence=0.71 | threshold=0.88
+[2026-06-09 14:10:14] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(1699, 684) | repeat=20
+[2026-06-09 14:10:15] NAV not found level 1-9 | direction=down | chunk=1/4 | best_confidence=0.71 | threshold=0.88
+[2026-06-09 14:10:19] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(1699, 684) | repeat=20
+[2026-06-09 14:10:19] NAV not found level 1-9 | direction=down | chunk=2/4 | best_confidence=0.71 | threshold=0.88
+[2026-06-09 14:10:23] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(1699, 684) | repeat=20
+[2026-06-09 14:10:23] NAV not found level 1-9 | direction=down | chunk=3/4 | best_confidence=0.71 | threshold=0.88
+[2026-06-09 14:10:27] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(1699, 684) | repeat=20
+[2026-06-09 14:10:28] NAV not found level 1-9 | direction=down | chunk=4/4 | best_confidence=0.66 | threshold=0.88
+[2026-06-09 14:10:31] Scrolled map up | scroll_point_local=(749, 465) | scroll_point_screen=(1699, 684) | repeat=20
+[2026-06-09 14:10:32] NAV not found level 1-9 | direction=up | chunk=1/4 | best_confidence=0.66 | threshold=0.88
+[2026-06-09 14:10:36] Scrolled map up | scroll_point_local=(749, 465) | scroll_point_screen=(1699, 684) | repeat=20
+[2026-06-09 14:10:36] NAV not found level 1-9 | direction=up | chunk=2/4 | best_confidence=0.66 | threshold=0.88
+[2026-06-09 14:10:40] Scrolled map up | scroll_point_local=(749, 465) | scroll_point_screen=(1699, 684) | repeat=20
+[2026-06-09 14:10:40] NAV not found level 1-9 | direction=up | chunk=3/4 | best_confidence=0.66 | threshold=0.88
+[2026-06-09 14:10:44] Scrolled map up | scroll_point_local=(749, 465) | scroll_point_screen=(1699, 684) | repeat=20
+[2026-06-09 14:10:44] NAV not found level 1-9 | direction=up | chunk=4/4 | best_confidence=0.71 | threshold=0.88
+[2026-06-09 14:10:48] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(1699, 684) | repeat=20
+[2026-06-09 14:10:49] NAV not found level 1-9 | direction=down | chunk=1/4 | best_confidence=0.71 | threshold=0.88
+[2026-06-09 14:10:52] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(1699, 684) | repeat=20
+[2026-06-09 14:10:53] NAV not found level 1-9 | direction=down | chunk=2/4 | best_confidence=0.71 | threshold=0.88
+[2026-06-09 14:10:57] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(1699, 684) | repeat=20
+[2026-06-09 14:10:57] NAV not found level 1-9 | direction=down | chunk=3/4 | best_confidence=0.71 | threshold=0.88
+[2026-06-09 14:11:01] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(1699, 684) | repeat=20
+[2026-06-09 14:11:01] NAV not found level 1-9 | direction=down | chunk=4/4 | best_confidence=0.66 | threshold=0.88
+[2026-06-09 14:11:01] NAV FAILED: could not find level 1-9 | search_order=['up', 'down', 'up', 'down']
+[2026-06-09 14:30:12] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 14:30:14] Boss warning confirmed | region=battle_bottom | red_pixels=17395 | confidence=0.97. Blue-drop detector armed.
+[2026-06-09 14:36:16] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 14:36:36] Advanced to Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 14:36:36] Entering freeze window.
+[2026-06-09 14:36:36] Manual route advance triggered.
+[2026-06-09 14:36:41] Freeze ended. Now looking for boss warning.
+[2026-06-09 14:36:49] Manual FULL nav test for Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 14:36:49] Starting route navigation | target=nightmare | chapter_1 | 1-9
+[2026-06-09 14:36:49] Selecting difficulty/chapter | difficulty=nightmare | chapter=chapter_1
+[2026-06-09 14:36:49] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:36:49] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:36:49] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:36:49] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:36:49] NAV FAILED: could not find current difficulty anchor | target=nightmare | best_anchor_conf=0.00
+[2026-06-09 14:36:49] NAV FAILED: difficulty selection failed | difficulty=nightmare
+[2026-06-09 14:36:49] Route navigation FAILED during difficulty/chapter selection for Route 2
+[2026-06-09 14:36:55] Manual FULL nav test for Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 14:36:55] Starting route navigation | target=nightmare | chapter_1 | 1-9
+[2026-06-09 14:36:55] Selecting difficulty/chapter | difficulty=nightmare | chapter=chapter_1
+[2026-06-09 14:36:55] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:36:55] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:36:55] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:36:55] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:36:55] NAV FAILED: could not find current difficulty anchor | target=nightmare | best_anchor_conf=0.00
+[2026-06-09 14:36:55] NAV FAILED: difficulty selection failed | difficulty=nightmare
+[2026-06-09 14:36:55] Route navigation FAILED during difficulty/chapter selection for Route 2
+[2026-06-09 14:36:55] Manual FULL nav test for Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 14:36:55] Starting route navigation | target=nightmare | chapter_1 | 1-9
+[2026-06-09 14:36:55] Selecting difficulty/chapter | difficulty=nightmare | chapter=chapter_1
+[2026-06-09 14:36:55] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:36:55] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:36:55] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:36:55] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:36:55] NAV FAILED: could not find current difficulty anchor | target=nightmare | best_anchor_conf=0.00
+[2026-06-09 14:36:55] NAV FAILED: difficulty selection failed | difficulty=nightmare
+[2026-06-09 14:36:55] Route navigation FAILED during difficulty/chapter selection for Route 2
+[2026-06-09 14:36:56] Manual FULL nav test for Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 14:36:56] Starting route navigation | target=nightmare | chapter_1 | 1-9
+[2026-06-09 14:36:56] Selecting difficulty/chapter | difficulty=nightmare | chapter=chapter_1
+[2026-06-09 14:36:56] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:36:56] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:36:56] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:36:56] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:36:56] NAV FAILED: could not find current difficulty anchor | target=nightmare | best_anchor_conf=0.00
+[2026-06-09 14:36:56] NAV FAILED: difficulty selection failed | difficulty=nightmare
+[2026-06-09 14:36:56] Route navigation FAILED during difficulty/chapter selection for Route 2
+[2026-06-09 14:36:56] Manual FULL nav test for Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 14:36:56] Starting route navigation | target=nightmare | chapter_1 | 1-9
+[2026-06-09 14:36:56] Selecting difficulty/chapter | difficulty=nightmare | chapter=chapter_1
+[2026-06-09 14:36:56] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:36:56] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:36:56] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:36:56] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:36:56] NAV FAILED: could not find current difficulty anchor | target=nightmare | best_anchor_conf=0.00
+[2026-06-09 14:36:56] NAV FAILED: difficulty selection failed | difficulty=nightmare
+[2026-06-09 14:36:56] Route navigation FAILED during difficulty/chapter selection for Route 2
+[2026-06-09 14:36:57] Manual FULL nav test for Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 14:36:57] Starting route navigation | target=nightmare | chapter_1 | 1-9
+[2026-06-09 14:36:57] Selecting difficulty/chapter | difficulty=nightmare | chapter=chapter_1
+[2026-06-09 14:36:57] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:36:57] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:36:57] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:36:57] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:36:57] NAV FAILED: could not find current difficulty anchor | target=nightmare | best_anchor_conf=0.00
+[2026-06-09 14:36:57] NAV FAILED: difficulty selection failed | difficulty=nightmare
+[2026-06-09 14:36:57] Route navigation FAILED during difficulty/chapter selection for Route 2
+[2026-06-09 14:37:01] Manual FULL nav test for Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 14:37:01] Starting route navigation | target=nightmare | chapter_1 | 1-9
+[2026-06-09 14:37:01] Selecting difficulty/chapter | difficulty=nightmare | chapter=chapter_1
+[2026-06-09 14:37:01] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:37:01] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:37:01] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:37:01] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:37:01] NAV FAILED: could not find current difficulty anchor | target=nightmare | best_anchor_conf=0.00
+[2026-06-09 14:37:01] NAV FAILED: difficulty selection failed | difficulty=nightmare
+[2026-06-09 14:37:01] Route navigation FAILED during difficulty/chapter selection for Route 2
+[2026-06-09 14:37:02] Manual FULL nav test for Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 14:37:02] Starting route navigation | target=nightmare | chapter_1 | 1-9
+[2026-06-09 14:37:02] Selecting difficulty/chapter | difficulty=nightmare | chapter=chapter_1
+[2026-06-09 14:37:02] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:37:02] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:37:02] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:37:02] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:37:02] NAV FAILED: could not find current difficulty anchor | target=nightmare | best_anchor_conf=0.00
+[2026-06-09 14:37:02] NAV FAILED: difficulty selection failed | difficulty=nightmare
+[2026-06-09 14:37:02] Route navigation FAILED during difficulty/chapter selection for Route 2
+[2026-06-09 14:37:02] Manual FULL nav test for Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 14:37:02] Starting route navigation | target=nightmare | chapter_1 | 1-9
+[2026-06-09 14:37:02] Selecting difficulty/chapter | difficulty=nightmare | chapter=chapter_1
+[2026-06-09 14:37:02] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:37:02] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:37:02] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:37:02] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:37:02] NAV FAILED: could not find current difficulty anchor | target=nightmare | best_anchor_conf=0.00
+[2026-06-09 14:37:02] NAV FAILED: difficulty selection failed | difficulty=nightmare
+[2026-06-09 14:37:02] Route navigation FAILED during difficulty/chapter selection for Route 2
+[2026-06-09 14:37:03] Manual FULL nav test for Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 14:37:03] Starting route navigation | target=nightmare | chapter_1 | 1-9
+[2026-06-09 14:37:03] Selecting difficulty/chapter | difficulty=nightmare | chapter=chapter_1
+[2026-06-09 14:37:03] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:37:03] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:37:03] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:37:03] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:37:03] NAV FAILED: could not find current difficulty anchor | target=nightmare | best_anchor_conf=0.00
+[2026-06-09 14:37:03] NAV FAILED: difficulty selection failed | difficulty=nightmare
+[2026-06-09 14:37:03] Route navigation FAILED during difficulty/chapter selection for Route 2
+[2026-06-09 14:37:03] Manual FULL nav test for Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 14:37:03] Starting route navigation | target=nightmare | chapter_1 | 1-9
+[2026-06-09 14:37:03] Selecting difficulty/chapter | difficulty=nightmare | chapter=chapter_1
+[2026-06-09 14:37:03] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:37:03] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:37:03] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:37:03] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:37:03] NAV FAILED: could not find current difficulty anchor | target=nightmare | best_anchor_conf=0.00
+[2026-06-09 14:37:03] NAV FAILED: difficulty selection failed | difficulty=nightmare
+[2026-06-09 14:37:03] Route navigation FAILED during difficulty/chapter selection for Route 2
+[2026-06-09 14:37:03] Manual FULL nav test for Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 14:37:03] Starting route navigation | target=nightmare | chapter_1 | 1-9
+[2026-06-09 14:37:03] Selecting difficulty/chapter | difficulty=nightmare | chapter=chapter_1
+[2026-06-09 14:37:03] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:37:03] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:37:03] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:37:03] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:37:03] NAV FAILED: could not find current difficulty anchor | target=nightmare | best_anchor_conf=0.00
+[2026-06-09 14:37:03] NAV FAILED: difficulty selection failed | difficulty=nightmare
+[2026-06-09 14:37:03] Route navigation FAILED during difficulty/chapter selection for Route 2
+[2026-06-09 14:37:03] Manual FULL nav test for Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 14:37:03] Starting route navigation | target=nightmare | chapter_1 | 1-9
+[2026-06-09 14:37:03] Selecting difficulty/chapter | difficulty=nightmare | chapter=chapter_1
+[2026-06-09 14:37:03] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:37:03] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:37:03] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:37:03] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:37:03] NAV FAILED: could not find current difficulty anchor | target=nightmare | best_anchor_conf=0.00
+[2026-06-09 14:37:03] NAV FAILED: difficulty selection failed | difficulty=nightmare
+[2026-06-09 14:37:03] Route navigation FAILED during difficulty/chapter selection for Route 2
+[2026-06-09 14:37:03] Manual FULL nav test for Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 14:37:03] Starting route navigation | target=nightmare | chapter_1 | 1-9
+[2026-06-09 14:37:03] Selecting difficulty/chapter | difficulty=nightmare | chapter=chapter_1
+[2026-06-09 14:37:03] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:37:03] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:37:03] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:37:03] REGION NOT FOUND: difficulty_area
+[2026-06-09 14:37:03] NAV FAILED: could not find current difficulty anchor | target=nightmare | best_anchor_conf=0.00
+[2026-06-09 14:37:03] NAV FAILED: difficulty selection failed | difficulty=nightmare
+[2026-06-09 14:37:03] Route navigation FAILED during difficulty/chapter selection for Route 2
+[2026-06-09 14:37:51] Boss warning confirmed | region=battle_bottom | red_pixels=17413 | confidence=0.96. Blue-drop detector armed.
+[2026-06-09 16:26:22] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 16:27:18] Advanced to Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 16:27:18] Entering freeze window.
+[2026-06-09 16:27:18] Manual route advance triggered.
+[2026-06-09 16:27:23] Freeze ended. Now looking for boss warning.
+[2026-06-09 16:27:24] Manual FULL nav test for Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 16:27:24] Starting route navigation | target=nightmare | chapter_1 | 1-9
+[2026-06-09 16:27:24] Selecting difficulty/chapter | difficulty=nightmare | chapter=chapter_1
+[2026-06-09 16:27:24] NAV FAILED: could not find current difficulty anchor | target=nightmare | best_anchor_conf=0.00
+[2026-06-09 16:27:24] NAV FAILED: difficulty selection failed | difficulty=nightmare
+[2026-06-09 16:27:24] Route navigation FAILED during difficulty/chapter selection for Route 2
+[2026-06-09 16:28:53] Boss warning confirmed | region=battle_bottom | red_pixels=4517 | confidence=0.93. Blue-drop detector armed.
+[2026-06-09 16:32:56] BLUE chest detected | confidence=0.94 | location=(502, 151) | region=battle_top
+[2026-06-09 16:32:57] CONFIRMED BLUE DROP | blue_chest_recent=True | blue_log_recent=True | log_region=log_top | blue_pixels=239.
+[2026-06-09 16:32:58] DRY RUN: would click blue chest once.
+[2026-06-09 16:32:58] Advanced to Route 3 | normal | chapter_3 | 3-8
+[2026-06-09 16:32:59] Starting route navigation | target=normal | chapter_3 | 3-8
+[2026-06-09 16:32:59] Selecting difficulty/chapter | difficulty=normal | chapter=chapter_3
+[2026-06-09 16:32:59] Opening difficulty dropdown | current_anchor=normal | center=(631, 138) | confidence=0.48
+[2026-06-09 16:32:59] Background click | label=difficulty_anchor_open | local=(631, 138) | client=(631, 138) | screen=(-802, 650)
+[2026-06-09 16:33:00] NAV FAILED: target difficulty tab not found after opening dropdown | target=normal | tab_confidence=0.52
+[2026-06-09 16:33:00] NAV FAILED: difficulty selection failed | difficulty=normal
+[2026-06-09 16:33:00] Route navigation FAILED during difficulty/chapter selection for Route 3
+[2026-06-09 16:33:00] Entering freeze window.
+[2026-06-09 16:33:05] Freeze ended. Now looking for boss warning.
+[2026-06-09 16:33:35] Brown chest detected, leave it | confidence=1.00 | location=(565, 151) | region=battle_top
+[2026-06-09 16:38:05] Brown chest detected, leave it | confidence=1.00 | location=(533, 151) | region=battle_top
+[2026-06-09 16:42:21] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 16:42:29] Manual FULL nav test for Route 1 | nightmare | chapter_3 | 3-5
+[2026-06-09 16:42:29] Starting route navigation | target=nightmare | chapter_3 | 3-5
+[2026-06-09 16:42:29] Selecting difficulty/chapter | difficulty=nightmare | chapter=chapter_3
+[2026-06-09 16:42:29] Opening difficulty dropdown | current_anchor=hell | center=(807, 309) | confidence=1.00
+[2026-06-09 16:42:29] Background click | label=difficulty_anchor_open | local=(807, 309) | client=(807, 309) | screen=(-1257, 790)
+[2026-06-09 16:42:30] NAV FAILED: target difficulty tab not found after opening dropdown | target=nightmare | tab_confidence=0.43
+[2026-06-09 16:42:30] NAV FAILED: difficulty selection failed | difficulty=nightmare
+[2026-06-09 16:42:30] Route navigation FAILED during difficulty/chapter selection for Route 1
+[2026-06-09 16:42:36] Advanced to Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 16:42:36] Entering freeze window.
+[2026-06-09 16:42:36] Manual route advance triggered.
+[2026-06-09 16:42:38] Manual FULL nav test for Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 16:42:38] Starting route navigation | target=nightmare | chapter_1 | 1-9
+[2026-06-09 16:42:38] Selecting difficulty/chapter | difficulty=nightmare | chapter=chapter_1
+[2026-06-09 16:42:38] Opening difficulty dropdown | current_anchor=hell | center=(807, 309) | confidence=1.00
+[2026-06-09 16:42:38] Background click | label=difficulty_anchor_open | local=(807, 309) | client=(807, 309) | screen=(-1257, 790)
+[2026-06-09 16:42:39] NAV FAILED: target difficulty tab not found after opening dropdown | target=nightmare | tab_confidence=0.42
+[2026-06-09 16:42:39] NAV FAILED: difficulty selection failed | difficulty=nightmare
+[2026-06-09 16:42:39] Route navigation FAILED during difficulty/chapter selection for Route 2
+[2026-06-09 16:42:41] Freeze ended. Now looking for boss warning.
+[2026-06-09 16:45:42] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 16:45:50] Manual FULL nav test for Route 1 | nightmare | chapter_3 | 3-5
+[2026-06-09 16:45:50] Starting route navigation | target=nightmare | chapter_3 | 3-5
+[2026-06-09 16:45:50] Selecting difficulty/chapter | difficulty=nightmare | chapter=chapter_3
+[2026-06-09 16:45:50] NAV FAILED: could not find current difficulty anchor | target=nightmare | best_anchor_conf=0.34
+[2026-06-09 16:45:50] NAV FAILED: difficulty selection failed | difficulty=nightmare
+[2026-06-09 16:45:50] Route navigation FAILED during difficulty/chapter selection for Route 1
+[2026-06-09 16:45:57] Advanced to Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 16:45:57] Entering freeze window.
+[2026-06-09 16:45:57] Manual route advance triggered.
+[2026-06-09 16:45:59] Manual FULL nav test for Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 16:45:59] Starting route navigation | target=nightmare | chapter_1 | 1-9
+[2026-06-09 16:45:59] Selecting difficulty/chapter | difficulty=nightmare | chapter=chapter_1
+[2026-06-09 16:45:59] NAV FAILED: could not find current difficulty anchor | target=nightmare | best_anchor_conf=0.31
+[2026-06-09 16:45:59] NAV FAILED: difficulty selection failed | difficulty=nightmare
+[2026-06-09 16:45:59] Route navigation FAILED during difficulty/chapter selection for Route 2
+[2026-06-09 16:46:01] Advanced to Route 3 | normal | chapter_3 | 3-8
+[2026-06-09 16:46:01] Entering freeze window.
+[2026-06-09 16:46:01] Manual route advance triggered.
+[2026-06-09 16:46:02] Manual FULL nav test for Route 3 | normal | chapter_3 | 3-8
+[2026-06-09 16:46:02] Starting route navigation | target=normal | chapter_3 | 3-8
+[2026-06-09 16:46:02] Selecting difficulty/chapter | difficulty=normal | chapter=chapter_3
+[2026-06-09 16:46:02] NAV FAILED: could not find current difficulty anchor | target=normal | best_anchor_conf=0.34
+[2026-06-09 16:46:02] NAV FAILED: difficulty selection failed | difficulty=normal
+[2026-06-09 16:46:02] Route navigation FAILED during difficulty/chapter selection for Route 3
+[2026-06-09 16:46:06] Freeze ended. Now looking for boss warning.
+[2026-06-09 16:47:11] Boss warning confirmed | region=battle_bottom | red_pixels=17369 | confidence=0.96. Blue-drop detector armed.
+[2026-06-09 16:47:52] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 16:47:59] Advanced to Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 16:47:59] Entering freeze window.
+[2026-06-09 16:47:59] Manual route advance triggered.
+[2026-06-09 16:48:00] Manual FULL nav test for Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 16:48:00] Starting route navigation | target=nightmare | chapter_1 | 1-9
+[2026-06-09 16:48:00] Selecting difficulty/chapter | difficulty=nightmare | chapter=chapter_1
+[2026-06-09 16:48:00] NAV FAILED: could not find current difficulty anchor | target=nightmare | best_anchor=normal | best_anchor_conf=0.36 | search_region=(340, 250, 670, 430)
+[2026-06-09 16:48:00] NAV FAILED: difficulty selection failed | difficulty=nightmare
+[2026-06-09 16:48:00] Route navigation FAILED during difficulty/chapter selection for Route 2
+[2026-06-09 16:48:04] Freeze ended. Now looking for boss warning.
+[2026-06-09 16:48:07] Advanced to Route 3 | normal | chapter_3 | 3-8
+[2026-06-09 16:48:07] Entering freeze window.
+[2026-06-09 16:48:07] Manual route advance triggered.
+[2026-06-09 16:48:09] Manual FULL nav test for Route 3 | normal | chapter_3 | 3-8
+[2026-06-09 16:48:09] Starting route navigation | target=normal | chapter_3 | 3-8
+[2026-06-09 16:48:09] Selecting difficulty/chapter | difficulty=normal | chapter=chapter_3
+[2026-06-09 16:48:09] NAV FAILED: could not find current difficulty anchor | target=normal | best_anchor=normal | best_anchor_conf=0.33 | search_region=(340, 250, 670, 430)
+[2026-06-09 16:48:09] NAV FAILED: difficulty selection failed | difficulty=normal
+[2026-06-09 16:48:09] Route navigation FAILED during difficulty/chapter selection for Route 3
+[2026-06-09 16:48:12] Freeze ended. Now looking for boss warning.
+[2026-06-09 16:51:23] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 16:51:31] Boss warning confirmed | region=battle_bottom | red_pixels=17365 | confidence=0.96. Blue-drop detector armed.
+[2026-06-09 16:51:33] Manual FULL nav test for Route 1 | nightmare | chapter_3 | 3-5
+[2026-06-09 16:51:33] Starting route navigation | target=nightmare | chapter_3 | 3-5
+[2026-06-09 16:51:33] Selecting difficulty/chapter | difficulty=nightmare | chapter=chapter_3
+[2026-06-09 16:51:33] Opening difficulty dropdown | current_anchor=hell | center=(807, 309) | confidence=1.00
+[2026-06-09 16:51:33] Click window point | label=difficulty_anchor_open | local=(807, 309) | screen=(-1535, 846)
+[2026-06-09 16:51:35] Clicking difficulty tab | difficulty=nightmare | center=(807, 351) | confidence=1.00
+[2026-06-09 16:51:35] Click window point | label=difficulty_tab_nightmare | local=(807, 351) | screen=(-1535, 888)
+[2026-06-09 16:51:36] Difficulty verified | difficulty=nightmare | anchor_confidence=1.00 | center=(809, 308)
+[2026-06-09 16:51:36] NAV FAILED: chapter tab not found | chapter=chapter_3 | confidence=0.33
+[2026-06-09 16:51:36] NAV FAILED: chapter selection failed | chapter=chapter_3
+[2026-06-09 16:51:36] Route navigation FAILED during difficulty/chapter selection for Route 1
+[2026-06-09 16:57:49] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 16:58:01] Manual FULL nav test for Route 1 | nightmare | chapter_3 | 3-5
+[2026-06-09 16:58:01] Starting route navigation | target=nightmare | chapter_3 | 3-5
+[2026-06-09 16:58:01] Selecting difficulty/chapter | difficulty=nightmare | chapter=chapter_3
+[2026-06-09 16:58:01] Opening difficulty dropdown | current_anchor=hell | center=(807, 309) | confidence=1.00
+[2026-06-09 16:58:01] Click window point | label=difficulty_anchor_open | local=(807, 309) | screen=(-1535, 846)
+[2026-06-09 16:58:03] Clicking difficulty tab | difficulty=nightmare | center=(807, 351) | confidence=1.00
+[2026-06-09 16:58:03] Click window point | label=difficulty_tab_nightmare | local=(807, 351) | screen=(-1535, 888)
+[2026-06-09 16:58:05] Difficulty verified | difficulty=nightmare | anchor_confidence=1.00 | center=(809, 308)
+[2026-06-09 16:58:05] Chapter visual state | target=chapter_3 | current=chapter_1 | selected_center=(689, 346) | selected_confidence=1.00
+[2026-06-09 16:58:05] Clicking chapter tab | chapter=chapter_3 | center=(753, 346) | confidence=0.97
+[2026-06-09 16:58:05] Click window point | label=chapter_3 | local=(753, 346) | screen=(-1589, 883)
+[2026-06-09 16:58:06] NAV WARNING: chapter click done but verification failed | target=chapter_3 | verified=chapter_2 | center=(753, 346) | confidence=1.00
+[2026-06-09 16:58:06] NAV FAILED: chapter selection failed | chapter=chapter_3
+[2026-06-09 16:58:06] Route navigation FAILED during difficulty/chapter selection for Route 1
+[2026-06-09 17:01:27] Boss warning confirmed | region=battle_bottom | red_pixels=17369 | confidence=0.96. Blue-drop detector armed.
+[2026-06-09 17:01:38] BLUE chest detected | confidence=0.94 | location=(502, 745) | region=battle_bottom
+[2026-06-09 17:01:41] Brown chest detected, leave it | confidence=1.00 | location=(565, 745) | region=battle_bottom
+[2026-06-09 17:03:06] Chapter tab candidates | target=chapter_1 | chapter_1@(688, 341):0.90 | chapter_2@(753, 346):1.00 | chapter_3@(817, 346):1.00
+[2026-06-09 17:03:06] Chapter tab candidates | target=chapter_2 | chapter_1@(688, 341):0.90 | chapter_2@(753, 346):1.00 | chapter_3@(817, 346):1.00
+[2026-06-09 17:03:06] Chapter tab candidates | target=chapter_3 | chapter_1@(688, 341):0.90 | chapter_2@(753, 346):1.00 | chapter_3@(817, 346):1.00
+[2026-06-09 17:03:06] Chapter tab candidates | target=chapter_1 | chapter_1@(386, 341):0.90 | chapter_2@(451, 346):1.00 | chapter_3@(515, 346):1.00
+[2026-06-09 17:03:06] Chapter tab candidates | target=chapter_2 | chapter_1@(386, 341):0.90 | chapter_2@(451, 346):1.00 | chapter_3@(515, 346):1.00
+[2026-06-09 17:03:06] Chapter tab candidates | target=chapter_3 | chapter_1@(386, 341):0.90 | chapter_2@(451, 346):1.00 | chapter_3@(515, 346):1.00
+[2026-06-09 17:03:06] Chapter tab candidates | target=chapter_1 | chapter_1@(688, 341):0.90 | chapter_2@(753, 346):1.00 | chapter_3@(817, 346):1.00
+[2026-06-09 17:03:06] Chapter tab candidates | target=chapter_2 | chapter_1@(688, 341):0.90 | chapter_2@(753, 346):1.00 | chapter_3@(817, 346):1.00
+[2026-06-09 17:03:06] Chapter tab candidates | target=chapter_3 | chapter_1@(688, 341):0.90 | chapter_2@(753, 346):1.00 | chapter_3@(817, 346):1.00
+[2026-06-09 17:15:41] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 17:15:45] Manual FULL nav test for Route 1 | nightmare | chapter_3 | 3-5
+[2026-06-09 17:15:45] Starting route navigation | target=nightmare | chapter_3 | 3-5
+[2026-06-09 17:15:45] Selecting difficulty/chapter | difficulty=nightmare | chapter=chapter_3
+[2026-06-09 17:15:45] Difficulty already selected | difficulty=nightmare | anchor_confidence=1.00 | center=(809, 308)
+[2026-06-09 17:15:45] Chapter visual state | target=chapter_3 | current=chapter_3 | selected_center=(816, 346) | selected_confidence=1.00
+[2026-06-09 17:15:45] Chapter already selected | chapter=chapter_3 | confidence=1.00 | center=(816, 346)
+[2026-06-09 17:15:45] Difficulty/chapter selection completed | difficulty=nightmare | chapter=chapter_3
+[2026-06-09 17:15:49] Scrolled map up | scroll_point_local=(749, 465) | scroll_point_screen=(-1593, 1002) | repeat=20
+[2026-06-09 17:15:49] NAV not found level 3-5 | direction=up | chunk=1/4 | best_confidence=0.82 | threshold=0.88
+[2026-06-09 17:15:53] Scrolled map up | scroll_point_local=(749, 465) | scroll_point_screen=(-1593, 1002) | repeat=20
+[2026-06-09 17:15:53] NAV not found level 3-5 | direction=up | chunk=2/4 | best_confidence=0.82 | threshold=0.88
+[2026-06-09 17:15:57] Scrolled map up | scroll_point_local=(749, 465) | scroll_point_screen=(-1593, 1002) | repeat=20
+[2026-06-09 17:15:58] NAV not found level 3-5 | direction=up | chunk=3/4 | best_confidence=0.82 | threshold=0.88
+[2026-06-09 17:16:01] Scrolled map up | scroll_point_local=(749, 465) | scroll_point_screen=(-1593, 1002) | repeat=20
+[2026-06-09 17:16:02] NAV not found level 3-5 | direction=up | chunk=4/4 | best_confidence=0.82 | threshold=0.88
+[2026-06-09 17:16:05] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(-1593, 1002) | repeat=20
+[2026-06-09 17:16:06] NAV not found level 3-5 | direction=down | chunk=1/4 | best_confidence=0.86 | threshold=0.88
+[2026-06-09 17:16:10] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(-1593, 1002) | repeat=20
+[2026-06-09 17:16:10] NAV not found level 3-5 | direction=down | chunk=2/4 | best_confidence=0.86 | threshold=0.88
+[2026-06-09 17:16:14] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(-1593, 1002) | repeat=20
+[2026-06-09 17:16:14] NAV not found level 3-5 | direction=down | chunk=3/4 | best_confidence=0.86 | threshold=0.88
+[2026-06-09 17:16:18] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(-1593, 1002) | repeat=20
+[2026-06-09 17:16:19] NAV not found level 3-5 | direction=down | chunk=4/4 | best_confidence=0.83 | threshold=0.88
+[2026-06-09 17:16:22] Scrolled map up | scroll_point_local=(749, 465) | scroll_point_screen=(-1593, 1002) | repeat=20
+[2026-06-09 17:16:23] NAV not found level 3-5 | direction=up | chunk=1/4 | best_confidence=0.83 | threshold=0.88
+[2026-06-09 17:16:27] Scrolled map up | scroll_point_local=(749, 465) | scroll_point_screen=(-1593, 1002) | repeat=20
+[2026-06-09 17:16:27] NAV not found level 3-5 | direction=up | chunk=2/4 | best_confidence=0.83 | threshold=0.88
+[2026-06-09 17:16:31] Scrolled map up | scroll_point_local=(749, 465) | scroll_point_screen=(-1593, 1002) | repeat=20
+[2026-06-09 17:16:31] NAV not found level 3-5 | direction=up | chunk=3/4 | best_confidence=0.79 | threshold=0.88
+[2026-06-09 17:16:35] Scrolled map up | scroll_point_local=(749, 465) | scroll_point_screen=(-1593, 1002) | repeat=20
+[2026-06-09 17:16:36] NAV not found level 3-5 | direction=up | chunk=4/4 | best_confidence=0.82 | threshold=0.88
+[2026-06-09 17:16:39] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(-1593, 1002) | repeat=20
+[2026-06-09 17:16:40] NAV not found level 3-5 | direction=down | chunk=1/4 | best_confidence=0.86 | threshold=0.88
+[2026-06-09 17:16:43] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(-1593, 1002) | repeat=20
+[2026-06-09 17:16:44] NAV not found level 3-5 | direction=down | chunk=2/4 | best_confidence=0.86 | threshold=0.88
+[2026-06-09 17:16:48] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(-1593, 1002) | repeat=20
+[2026-06-09 17:16:48] NAV not found level 3-5 | direction=down | chunk=3/4 | best_confidence=0.86 | threshold=0.88
+[2026-06-09 17:16:52] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(-1593, 1002) | repeat=20
+[2026-06-09 17:16:52] NAV not found level 3-5 | direction=down | chunk=4/4 | best_confidence=0.83 | threshold=0.88
+[2026-06-09 17:16:52] NAV FAILED: could not find level 3-5 | search_order=['up', 'down', 'up', 'down']
+[2026-06-09 17:16:52] Route navigation FAILED for Route 1 | 3-5
+[2026-06-09 17:17:25] Advanced to Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 17:17:25] Entering freeze window.
+[2026-06-09 17:17:25] Manual route advance triggered.
+[2026-06-09 17:17:27] Manual FULL nav test for Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 17:17:27] Starting route navigation | target=nightmare | chapter_1 | 1-9
+[2026-06-09 17:17:27] Selecting difficulty/chapter | difficulty=nightmare | chapter=chapter_1
+[2026-06-09 17:17:27] Difficulty already selected | difficulty=nightmare | anchor_confidence=1.00 | center=(809, 308)
+[2026-06-09 17:17:27] Chapter visual state | target=chapter_1 | current=chapter_3 | selected_center=(816, 346) | selected_confidence=1.00
+[2026-06-09 17:17:27] Chapter tab candidates | target=chapter_1 | chapter_1@(688, 345):1.00 | chapter_2@(753, 346):1.00 | chapter_2@(817, 342):0.87
+[2026-06-09 17:17:27] Clicking chapter tab | chapter=chapter_1 | center=(688, 345) | confidence=1.00
+[2026-06-09 17:17:27] Click window point | label=chapter_1 | local=(688, 345) | screen=(-1654, 882)
+[2026-06-09 17:17:29] Chapter verified | chapter=chapter_1 | confidence=1.00 | center=(689, 346)
+[2026-06-09 17:17:29] Difficulty/chapter selection completed | difficulty=nightmare | chapter=chapter_1
+[2026-06-09 17:17:32] Scrolled map up | scroll_point_local=(749, 465) | scroll_point_screen=(-1593, 1002) | repeat=20
+[2026-06-09 17:17:33] NAV not found level 1-9 | direction=up | chunk=1/4 | best_confidence=0.84 | threshold=0.88
+[2026-06-09 17:17:37] Scrolled map up | scroll_point_local=(749, 465) | scroll_point_screen=(-1593, 1002) | repeat=20
+[2026-06-09 17:17:37] NAV found level 1-9 | direction=up | chunk=2/4 | confidence=0.97 | threshold=0.88 | center=(792, 451) | box=(777, 444)-(808, 459)
+[2026-06-09 17:17:37] DOT SEARCH DEBUG | type=green | text_box=(777,444)-(808,459) | search_box=(722,402)-(775,501) | best_dot=(752, 428) | confidence=0.27 | threshold=0.65
+[2026-06-09 17:17:37] DOT SEARCH DEBUG | type=white | text_box=(777,444)-(808,459) | search_box=(722,402)-(775,501) | best_dot=(760, 449) | confidence=1.00 | threshold=0.65
+[2026-06-09 17:17:37] Found selectable white dot | route=1-9 | dot_center=(760, 449) | confidence=1.00
+[2026-06-09 17:17:37] Click window point | label=level_dot_1-9 | local=(760, 449) | screen=(-1582, 986)
+[2026-06-09 17:17:39] DOT SEARCH DEBUG | type=green_after_click | text_box=(777,444)-(808,459) | search_box=(722,402)-(775,501) | best_dot=(760, 450) | confidence=0.98 | threshold=0.65
+[2026-06-09 17:17:39] NAV verified after click: level selected | route=1-9 | green_dot=(760, 450) | confidence=0.98
+[2026-06-09 17:17:39] Route navigation completed for Route 2 | 1-9
+[2026-06-09 17:17:39] Freeze ended. Now looking for boss warning.
+[2026-06-09 17:17:44] Advanced to Route 3 | normal | chapter_3 | 3-8
+[2026-06-09 17:17:44] Entering freeze window.
+[2026-06-09 17:17:44] Manual route advance triggered.
+[2026-06-09 17:17:44] Manual FULL nav test for Route 3 | normal | chapter_3 | 3-8
+[2026-06-09 17:17:44] Starting route navigation | target=normal | chapter_3 | 3-8
+[2026-06-09 17:17:44] Selecting difficulty/chapter | difficulty=normal | chapter=chapter_3
+[2026-06-09 17:17:44] Opening difficulty dropdown | current_anchor=nightmare | center=(809, 308) | confidence=1.00
+[2026-06-09 17:17:44] Click window point | label=difficulty_anchor_open | local=(809, 308) | screen=(-1533, 845)
+[2026-06-09 17:17:46] Clicking difficulty tab | difficulty=normal | center=(807, 331) | confidence=1.00
+[2026-06-09 17:17:46] Click window point | label=difficulty_tab_normal | local=(807, 331) | screen=(-1535, 868)
+[2026-06-09 17:17:48] Difficulty verified | difficulty=normal | anchor_confidence=1.00 | center=(807, 308)
+[2026-06-09 17:17:48] Chapter visual state | target=chapter_3 | current=chapter_1 | selected_center=(689, 346) | selected_confidence=1.00
+[2026-06-09 17:17:48] Chapter tab candidates | target=chapter_3 | chapter_1@(688, 341):0.90 | chapter_2@(753, 346):1.00 | chapter_3@(817, 346):0.94
+[2026-06-09 17:17:48] Clicking chapter tab | chapter=chapter_3 | center=(817, 346) | confidence=0.94
+[2026-06-09 17:17:48] Click window point | label=chapter_3 | local=(817, 346) | screen=(-1525, 883)
+[2026-06-09 17:17:50] Chapter verified | chapter=chapter_3 | confidence=1.00 | center=(816, 346)
+[2026-06-09 17:17:50] Difficulty/chapter selection completed | difficulty=normal | chapter=chapter_3
+[2026-06-09 17:17:53] Scrolled map up | scroll_point_local=(749, 465) | scroll_point_screen=(-1593, 1002) | repeat=20
+[2026-06-09 17:17:54] NAV found level 3-8 | direction=up | chunk=1/4 | confidence=0.95 | threshold=0.88 | center=(866, 523) | box=(851, 516)-(882, 531)
+[2026-06-09 17:17:54] DOT SEARCH DEBUG | type=green | text_box=(851,516)-(882,531) | search_box=(796,474)-(849,573) | best_dot=(808, 504) | confidence=0.24 | threshold=0.65
+[2026-06-09 17:17:54] DOT SEARCH DEBUG | type=white | text_box=(851,516)-(882,531) | search_box=(796,474)-(849,573) | best_dot=(816, 487) | confidence=1.00 | threshold=0.65
+[2026-06-09 17:17:54] Found selectable white dot | route=3-8 | dot_center=(816, 487) | confidence=1.00
+[2026-06-09 17:17:54] Click window point | label=level_dot_3-8 | local=(816, 487) | screen=(-1526, 1024)
+[2026-06-09 17:17:56] DOT SEARCH DEBUG | type=green_after_click | text_box=(851,516)-(882,531) | search_box=(796,474)-(849,573) | best_dot=(816, 488) | confidence=0.99 | threshold=0.65
+[2026-06-09 17:17:56] NAV verified after click: level selected | route=3-8 | green_dot=(816, 488) | confidence=0.99
+[2026-06-09 17:17:56] Route navigation completed for Route 3 | 3-8
+[2026-06-09 17:17:56] Freeze ended. Now looking for boss warning.
+[2026-06-09 17:18:02] Advanced to Route 4 | normal | chapter_2 | 2-8
+[2026-06-09 17:18:02] Entering freeze window.
+[2026-06-09 17:18:02] Manual route advance triggered.
+[2026-06-09 17:18:03] Manual FULL nav test for Route 4 | normal | chapter_2 | 2-8
+[2026-06-09 17:18:03] Starting route navigation | target=normal | chapter_2 | 2-8
+[2026-06-09 17:18:03] Selecting difficulty/chapter | difficulty=normal | chapter=chapter_2
+[2026-06-09 17:18:03] Difficulty already selected | difficulty=normal | anchor_confidence=1.00 | center=(807, 308)
+[2026-06-09 17:18:03] Chapter visual state | target=chapter_2 | current=chapter_3 | selected_center=(816, 346) | selected_confidence=1.00
+[2026-06-09 17:18:03] Chapter tab candidates | target=chapter_2 | chapter_1@(688, 345):1.00 | chapter_2@(753, 346):1.00 | chapter_2@(817, 342):0.87
+[2026-06-09 17:18:03] Clicking chapter tab | chapter=chapter_2 | center=(753, 346) | confidence=1.00
+[2026-06-09 17:18:03] Click window point | label=chapter_2 | local=(753, 346) | screen=(-1589, 883)
+[2026-06-09 17:18:05] Chapter verified | chapter=chapter_2 | confidence=1.00 | center=(753, 346)
+[2026-06-09 17:18:05] Difficulty/chapter selection completed | difficulty=normal | chapter=chapter_2
+[2026-06-09 17:18:09] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(-1593, 1002) | repeat=20
+[2026-06-09 17:18:09] NAV found level 2-8 | direction=down | chunk=1/4 | confidence=0.95 | threshold=0.88 | center=(845, 489) | box=(830, 482)-(860, 496)
+[2026-06-09 17:18:09] DOT SEARCH DEBUG | type=green | text_box=(830,482)-(860,496) | search_box=(776,443)-(828,535) | best_dot=(798, 470) | confidence=0.25 | threshold=0.65
+[2026-06-09 17:18:09] DOT SEARCH DEBUG | type=white | text_box=(830,482)-(860,496) | search_box=(776,443)-(828,535) | best_dot=(812, 487) | confidence=1.00 | threshold=0.65
+[2026-06-09 17:18:09] Found selectable white dot | route=2-8 | dot_center=(812, 487) | confidence=1.00
+[2026-06-09 17:18:09] Click window point | label=level_dot_2-8 | local=(812, 487) | screen=(-1530, 1024)
+[2026-06-09 17:18:11] DOT SEARCH DEBUG | type=green_after_click | text_box=(830,482)-(860,496) | search_box=(776,443)-(828,535) | best_dot=(812, 488) | confidence=0.98 | threshold=0.65
+[2026-06-09 17:18:11] NAV verified after click: level selected | route=2-8 | green_dot=(812, 488) | confidence=0.98
+[2026-06-09 17:18:11] Route navigation completed for Route 4 | 2-8
+[2026-06-09 17:18:11] Freeze ended. Now looking for boss warning.
+[2026-06-09 17:18:16] Advanced to Route 5 | normal | chapter_2 | 2-3
+[2026-06-09 17:18:16] Entering freeze window.
+[2026-06-09 17:18:16] Manual route advance triggered.
+[2026-06-09 17:18:16] Manual FULL nav test for Route 5 | normal | chapter_2 | 2-3
+[2026-06-09 17:18:16] Starting route navigation | target=normal | chapter_2 | 2-3
+[2026-06-09 17:18:16] Selecting difficulty/chapter | difficulty=normal | chapter=chapter_2
+[2026-06-09 17:18:16] Difficulty already selected | difficulty=normal | anchor_confidence=1.00 | center=(807, 308)
+[2026-06-09 17:18:16] Chapter visual state | target=chapter_2 | current=chapter_2 | selected_center=(753, 346) | selected_confidence=1.00
+[2026-06-09 17:18:16] Chapter already selected | chapter=chapter_2 | confidence=1.00 | center=(753, 346)
+[2026-06-09 17:18:16] Difficulty/chapter selection completed | difficulty=normal | chapter=chapter_2
+[2026-06-09 17:18:20] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(-1593, 1002) | repeat=20
+[2026-06-09 17:18:21] NAV found level 2-3 | direction=down | chunk=1/4 | confidence=0.94 | threshold=0.92 | center=(864, 599) | box=(849, 592)-(879, 607)
+[2026-06-09 17:18:21] DOT SEARCH DEBUG | type=green | text_box=(849,592)-(879,607) | search_box=(795,550)-(847,649) | best_dot=(806, 616) | confidence=0.27 | threshold=0.65
+[2026-06-09 17:18:21] DOT SEARCH DEBUG | type=white | text_box=(849,592)-(879,607) | search_box=(795,550)-(847,649) | best_dot=(832, 597) | confidence=1.00 | threshold=0.65
+[2026-06-09 17:18:21] Found selectable white dot | route=2-3 | dot_center=(832, 597) | confidence=1.00
+[2026-06-09 17:18:21] Click window point | label=level_dot_2-3 | local=(832, 597) | screen=(-1510, 1134)
+[2026-06-09 17:18:22] DOT SEARCH DEBUG | type=green_after_click | text_box=(849,592)-(879,607) | search_box=(795,550)-(847,649) | best_dot=(832, 598) | confidence=0.98 | threshold=0.65
+[2026-06-09 17:18:22] NAV verified after click: level selected | route=2-3 | green_dot=(832, 598) | confidence=0.98
+[2026-06-09 17:18:22] Route navigation completed for Route 5 | 2-3
+[2026-06-09 17:18:22] Freeze ended. Now looking for boss warning.
+[2026-06-09 17:30:53] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 17:30:54] BLUE chest detected | confidence=0.96 | location=(502, 745) | region=battle_bottom
+[2026-06-09 17:44:06] BLUE chest detected | confidence=0.95 | location=(502, 745) | region=battle_bottom
+[2026-06-09 17:44:06] Blue chest visible while waiting for boss. Treating as possible orphan drop.
+[2026-06-09 17:44:06] CONFIRMED BLUE DROP | reason=orphan_blue_with_log | blue_log_visible=True | log_region=log_bottom | blue_pixels=256 | visible_seconds=0.0
+[2026-06-09 17:44:06] Blue drop confirmed. Opening blue chest before route advance.
+[2026-06-09 17:44:07] Clicking blue chest | mouse_before=(482, 768) | local=(495, 742) | screen=(-1916, 1218) | blue_box=(474,726)-(530,764) | confidence=0.95
+[2026-06-09 17:44:09] Blue chest click completed.
+[2026-06-09 17:44:10] Advanced to Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 17:44:11] Starting route navigation | target=nightmare | chapter_1 | 1-9
+[2026-06-09 17:44:11] Selecting difficulty/chapter | difficulty=nightmare | chapter=chapter_1
+[2026-06-09 17:44:11] Opening difficulty dropdown | current_anchor=normal | center=(807, 308) | confidence=1.00
+[2026-06-09 17:44:11] Click window point | label=difficulty_anchor_open | local=(807, 308) | screen=(-1604, 784)
+[2026-06-09 17:44:12] Clicking difficulty tab | difficulty=nightmare | center=(807, 351) | confidence=1.00
+[2026-06-09 17:44:12] Click window point | label=difficulty_tab_nightmare | local=(807, 351) | screen=(-1604, 827)
+[2026-06-09 17:44:14] Difficulty verified | difficulty=nightmare | anchor_confidence=1.00 | center=(809, 308)
+[2026-06-09 17:44:14] Chapter visual state | target=chapter_1 | current=chapter_3 | selected_center=(816, 346) | selected_confidence=1.00
+[2026-06-09 17:44:14] Chapter tab candidates | target=chapter_1 | chapter_1@(688, 345):1.00 | chapter_2@(753, 346):1.00 | chapter_2@(817, 342):0.87
+[2026-06-09 17:44:14] Clicking chapter tab | chapter=chapter_1 | center=(688, 345) | confidence=1.00
+[2026-06-09 17:44:14] Click window point | label=chapter_1 | local=(688, 345) | screen=(-1723, 821)
+[2026-06-09 17:44:16] Chapter verified | chapter=chapter_1 | confidence=1.00 | center=(689, 346)
+[2026-06-09 17:44:16] Difficulty/chapter selection completed | difficulty=nightmare | chapter=chapter_1
+[2026-06-09 17:44:16] NAV found level 1-9 on current view | context=before_scroll | confidence=1.00 | threshold=0.88 | center=(792, 491) | box=(777, 484)-(808, 499)
+[2026-06-09 17:44:16] DOT SEARCH DEBUG | type=green | text_box=(777,484)-(808,499) | search_box=(722,442)-(775,541) | best_dot=(740, 456) | confidence=0.32 | threshold=0.65
+[2026-06-09 17:44:16] DOT SEARCH DEBUG | type=white | text_box=(777,484)-(808,499) | search_box=(722,442)-(775,541) | best_dot=(760, 489) | confidence=1.00 | threshold=0.65
+[2026-06-09 17:44:16] Found selectable white dot | route=1-9 | dot_center=(760, 489) | confidence=1.00
+[2026-06-09 17:44:16] Click window point | label=level_dot_1-9 | local=(760, 489) | screen=(-1651, 965)
+[2026-06-09 17:44:18] DOT SEARCH DEBUG | type=green_after_click | text_box=(777,484)-(808,499) | search_box=(722,442)-(775,541) | best_dot=(760, 490) | confidence=0.99 | threshold=0.65
+[2026-06-09 17:44:18] NAV verified after click: level selected | route=1-9 | green_dot=(760, 490) | confidence=0.99
+[2026-06-09 17:44:18] Route navigation completed for Route 2 | 1-9
+[2026-06-09 17:44:18] Entering freeze window.
+[2026-06-09 17:44:18] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 17:44:23] Freeze ended. Now looking for boss warning.
+[2026-06-09 17:50:13] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 18:33:33] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 18:33:42] Boss warning confirmed | region=battle_bottom | red_pixels=5905 | confidence=0.93. Blue-drop detector armed.
+[2026-06-09 18:33:56] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 18:38:12] Boss warning confirmed | region=battle_bottom | red_pixels=17403 | confidence=0.95. Blue-drop detector armed.
+[2026-06-09 18:46:14] BLUE chest detected | confidence=0.94 | location=(502, 745) | region=battle_bottom
+[2026-06-09 18:46:14] CONFIRMED BLUE DROP | reason=post_boss_blue_chest_and_log | blue_chest_recent=True | blue_log_recent=True | log_region=log_bottom | blue_pixels=200
+[2026-06-09 18:46:14] Blue drop confirmed. Opening blue chest before route advance.
+[2026-06-09 18:46:15] Clicking blue chest | mouse_before=(1764, 884) | local=(495, 742) | screen=(-1885, 926) | blue_box=(474,726)-(530,764) | confidence=0.94
+[2026-06-09 18:46:15] Window focus warning: (183, 'SetForegroundWindow', 'Cannot create a file when that file already exists.')
+[2026-06-09 18:46:17] Blue chest click completed.
+[2026-06-09 18:46:17] Advanced to Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 18:46:18] Starting route navigation | target=nightmare | chapter_1 | 1-9
+[2026-06-09 18:46:18] Selecting difficulty/chapter | difficulty=nightmare | chapter=chapter_1
+[2026-06-09 18:46:19] Difficulty already selected | difficulty=nightmare | anchor_confidence=1.00 | center=(809, 308)
+[2026-06-09 18:46:19] Chapter visual state | target=chapter_1 | current=chapter_3 | selected_center=(816, 346) | selected_confidence=1.00
+[2026-06-09 18:46:19] Chapter tab candidates | target=chapter_1 | chapter_1@(688, 345):1.00 | chapter_2@(753, 346):1.00 | chapter_2@(817, 342):0.87
+[2026-06-09 18:46:19] Clicking chapter tab | chapter=chapter_1 | center=(688, 345) | confidence=1.00
+[2026-06-09 18:46:19] Click window point | label=chapter_1 | local=(688, 345) | screen=(-1692, 529)
+[2026-06-09 18:46:20] Chapter verified | chapter=chapter_1 | confidence=1.00 | center=(689, 346)
+[2026-06-09 18:46:20] Difficulty/chapter selection completed | difficulty=nightmare | chapter=chapter_1
+[2026-06-09 18:46:20] NAV found level 1-9 on current view | context=before_scroll | confidence=0.97 | threshold=0.88 | center=(792, 431) | box=(777, 424)-(808, 439)
+[2026-06-09 18:46:20] DOT SEARCH DEBUG | type=green | text_box=(777,424)-(808,439) | search_box=(722,382)-(775,481) | best_dot=(758, 420) | confidence=0.25 | threshold=0.65
+[2026-06-09 18:46:20] DOT SEARCH DEBUG | type=white | text_box=(777,424)-(808,439) | search_box=(722,382)-(775,481) | best_dot=(760, 429) | confidence=1.00 | threshold=0.65
+[2026-06-09 18:46:20] Found selectable white dot | route=1-9 | dot_center=(760, 429) | confidence=1.00
+[2026-06-09 18:46:20] Click window point | label=level_dot_1-9 | local=(760, 429) | screen=(-1620, 613)
+[2026-06-09 18:46:22] DOT SEARCH DEBUG | type=green_after_click | text_box=(777,424)-(808,439) | search_box=(722,382)-(775,481) | best_dot=(760, 430) | confidence=0.98 | threshold=0.65
+[2026-06-09 18:46:22] NAV verified after click: level selected | route=1-9 | green_dot=(760, 430) | confidence=0.98
+[2026-06-09 18:46:22] Route navigation completed for Route 2 | 1-9
+[2026-06-09 18:46:22] Entering freeze window.
+[2026-06-09 18:46:22] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 18:46:27] Freeze ended. Now looking for boss warning.
+[2026-06-09 18:49:38] Boss warning confirmed | region=battle_bottom | red_pixels=8122 | confidence=0.93. Blue-drop detector armed.
+[2026-06-09 18:49:44] BLUE chest detected | confidence=0.80 | location=(502, 744) | region=battle_bottom
+[2026-06-09 18:49:44] CONFIRMED BLUE DROP | reason=post_boss_blue_chest_and_log | blue_chest_recent=True | blue_log_recent=True | log_region=log_bottom | blue_pixels=224
+[2026-06-09 18:49:44] Blue drop confirmed. Opening blue chest before route advance.
+[2026-06-09 18:49:45] Clicking blue chest | mouse_before=(1426, 533) | local=(495, 741) | screen=(-1885, 925) | blue_box=(474,725)-(530,763) | confidence=0.80
+[2026-06-09 18:49:46] Blue chest click completed.
+[2026-06-09 18:49:47] Advanced to Route 3 | normal | chapter_3 | 3-8
+[2026-06-09 18:49:48] Starting route navigation | target=normal | chapter_3 | 3-8
+[2026-06-09 18:49:48] Selecting difficulty/chapter | difficulty=normal | chapter=chapter_3
+[2026-06-09 18:49:48] Opening difficulty dropdown | current_anchor=nightmare | center=(809, 308) | confidence=1.00
+[2026-06-09 18:49:48] Click window point | label=difficulty_anchor_open | local=(809, 308) | screen=(-1571, 492)
+[2026-06-09 18:49:50] Clicking difficulty tab | difficulty=normal | center=(807, 331) | confidence=1.00
+[2026-06-09 18:49:50] Click window point | label=difficulty_tab_normal | local=(807, 331) | screen=(-1573, 515)
+[2026-06-09 18:49:51] Difficulty verified | difficulty=normal | anchor_confidence=1.00 | center=(807, 308)
+[2026-06-09 18:49:51] Chapter visual state | target=chapter_3 | current=chapter_1 | selected_center=(689, 346) | selected_confidence=1.00
+[2026-06-09 18:49:51] Chapter tab candidates | target=chapter_3 | chapter_1@(688, 341):0.90 | chapter_2@(753, 346):1.00 | chapter_3@(817, 346):0.94
+[2026-06-09 18:49:51] Clicking chapter tab | chapter=chapter_3 | center=(817, 346) | confidence=0.94
+[2026-06-09 18:49:51] Click window point | label=chapter_3 | local=(817, 346) | screen=(-1563, 530)
+[2026-06-09 18:49:53] Chapter verified | chapter=chapter_3 | confidence=1.00 | center=(816, 346)
+[2026-06-09 18:49:53] Difficulty/chapter selection completed | difficulty=normal | chapter=chapter_3
+[2026-06-09 18:49:53] NAV found level 3-8 on current view | context=before_scroll | confidence=0.95 | threshold=0.88 | center=(866, 463) | box=(851, 456)-(882, 471)
+[2026-06-09 18:49:53] DOT SEARCH DEBUG | type=green | text_box=(851,456)-(882,471) | search_box=(796,414)-(849,513) | best_dot=(808, 444) | confidence=0.24 | threshold=0.65
+[2026-06-09 18:49:53] DOT SEARCH DEBUG | type=white | text_box=(851,456)-(882,471) | search_box=(796,414)-(849,513) | best_dot=(816, 427) | confidence=1.00 | threshold=0.65
+[2026-06-09 18:49:53] Found selectable white dot | route=3-8 | dot_center=(816, 427) | confidence=1.00
+[2026-06-09 18:49:53] Click window point | label=level_dot_3-8 | local=(816, 427) | screen=(-1564, 611)
+[2026-06-09 18:49:55] DOT SEARCH DEBUG | type=green_after_click | text_box=(851,456)-(882,471) | search_box=(796,414)-(849,513) | best_dot=(816, 428) | confidence=0.99 | threshold=0.65
+[2026-06-09 18:49:55] NAV verified after click: level selected | route=3-8 | green_dot=(816, 428) | confidence=0.99
+[2026-06-09 18:49:55] Route navigation completed for Route 3 | 3-8
+[2026-06-09 18:49:55] Entering freeze window.
+[2026-06-09 18:49:55] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 18:50:00] Freeze ended. Now looking for boss warning.
+[2026-06-09 18:51:54] Boss warning confirmed | region=battle_bottom | red_pixels=7737 | confidence=0.93. Blue-drop detector armed.
+[2026-06-09 18:51:59] BLUE chest detected | confidence=0.94 | location=(502, 745) | region=battle_bottom
+[2026-06-09 18:51:59] CONFIRMED BLUE DROP | reason=post_boss_blue_chest_and_log | blue_chest_recent=True | blue_log_recent=True | log_region=log_bottom | blue_pixels=224
+[2026-06-09 18:51:59] Blue drop confirmed. Opening blue chest before route advance.
+[2026-06-09 18:52:00] Clicking blue chest | mouse_before=(978, 135) | local=(495, 742) | screen=(-1885, 926) | blue_box=(474,726)-(530,764) | confidence=0.94
+[2026-06-09 18:52:01] Blue chest click completed.
+[2026-06-09 18:52:02] Advanced to Route 4 | normal | chapter_2 | 2-8
+[2026-06-09 18:52:03] Starting route navigation | target=normal | chapter_2 | 2-8
+[2026-06-09 18:52:03] Selecting difficulty/chapter | difficulty=normal | chapter=chapter_2
+[2026-06-09 18:52:03] Difficulty already selected | difficulty=normal | anchor_confidence=1.00 | center=(807, 308)
+[2026-06-09 18:52:03] Chapter visual state | target=chapter_2 | current=chapter_3 | selected_center=(816, 346) | selected_confidence=1.00
+[2026-06-09 18:52:03] Chapter tab candidates | target=chapter_2 | chapter_1@(688, 345):1.00 | chapter_2@(753, 346):1.00 | chapter_2@(817, 342):0.87
+[2026-06-09 18:52:03] Clicking chapter tab | chapter=chapter_2 | center=(753, 346) | confidence=1.00
+[2026-06-09 18:52:03] Click window point | label=chapter_2 | local=(753, 346) | screen=(-1627, 530)
+[2026-06-09 18:52:05] Chapter verified | chapter=chapter_2 | confidence=1.00 | center=(753, 346)
+[2026-06-09 18:52:05] Difficulty/chapter selection completed | difficulty=normal | chapter=chapter_2
+[2026-06-09 18:52:05] NAV found level 2-8 on current view | context=before_scroll | confidence=0.95 | threshold=0.88 | center=(845, 469) | box=(830, 462)-(860, 476)
+[2026-06-09 18:52:05] DOT SEARCH DEBUG | type=green | text_box=(830,462)-(860,476) | search_box=(776,423)-(828,515) | best_dot=(798, 450) | confidence=0.25 | threshold=0.65
+[2026-06-09 18:52:05] DOT SEARCH DEBUG | type=white | text_box=(830,462)-(860,476) | search_box=(776,423)-(828,515) | best_dot=(812, 467) | confidence=1.00 | threshold=0.65
+[2026-06-09 18:52:05] Found selectable white dot | route=2-8 | dot_center=(812, 467) | confidence=1.00
+[2026-06-09 18:52:05] Click window point | label=level_dot_2-8 | local=(812, 467) | screen=(-1568, 651)
+[2026-06-09 18:52:07] DOT SEARCH DEBUG | type=green_after_click | text_box=(830,462)-(860,476) | search_box=(776,423)-(828,515) | best_dot=(812, 468) | confidence=0.98 | threshold=0.65
+[2026-06-09 18:52:07] NAV verified after click: level selected | route=2-8 | green_dot=(812, 468) | confidence=0.98
+[2026-06-09 18:52:07] Route navigation completed for Route 4 | 2-8
+[2026-06-09 18:52:07] Entering freeze window.
+[2026-06-09 18:52:07] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 18:52:12] Freeze ended. Now looking for boss warning.
+[2026-06-09 18:53:33] Boss warning confirmed | region=battle_bottom | red_pixels=5985 | confidence=0.93. Blue-drop detector armed.
+[2026-06-09 18:53:39] BLUE chest detected | confidence=0.94 | location=(502, 745) | region=battle_bottom
+[2026-06-09 18:53:39] CONFIRMED BLUE DROP | reason=post_boss_blue_chest_and_log | blue_chest_recent=True | blue_log_recent=True | log_region=log_bottom | blue_pixels=254
+[2026-06-09 18:53:39] Blue drop confirmed. Opening blue chest before route advance.
+[2026-06-09 18:53:40] Clicking blue chest | mouse_before=(-1568, 651) | local=(495, 742) | screen=(-1885, 926) | blue_box=(474,726)-(530,764) | confidence=0.94
+[2026-06-09 18:53:41] Blue chest click completed.
+[2026-06-09 18:53:42] Advanced to Route 5 | normal | chapter_2 | 2-3
+[2026-06-09 18:53:43] Starting route navigation | target=normal | chapter_2 | 2-3
+[2026-06-09 18:53:43] Selecting difficulty/chapter | difficulty=normal | chapter=chapter_2
+[2026-06-09 18:53:43] Difficulty already selected | difficulty=normal | anchor_confidence=1.00 | center=(807, 308)
+[2026-06-09 18:53:43] Chapter visual state | target=chapter_2 | current=chapter_2 | selected_center=(753, 346) | selected_confidence=1.00
+[2026-06-09 18:53:43] Chapter already selected | chapter=chapter_2 | confidence=1.00 | center=(753, 346)
+[2026-06-09 18:53:43] Difficulty/chapter selection completed | difficulty=normal | chapter=chapter_2
+[2026-06-09 18:53:43] NAV found level 2-3 on current view | context=before_scroll | confidence=0.94 | threshold=0.92 | center=(864, 619) | box=(849, 612)-(879, 627)
+[2026-06-09 18:53:43] DOT SEARCH DEBUG | type=green | text_box=(849,612)-(879,627) | search_box=(795,570)-(847,669) | best_dot=(806, 636) | confidence=0.27 | threshold=0.65
+[2026-06-09 18:53:43] DOT SEARCH DEBUG | type=white | text_box=(849,612)-(879,627) | search_box=(795,570)-(847,669) | best_dot=(832, 617) | confidence=1.00 | threshold=0.65
+[2026-06-09 18:53:43] Found selectable white dot | route=2-3 | dot_center=(832, 617) | confidence=1.00
+[2026-06-09 18:53:43] Click window point | label=level_dot_2-3 | local=(832, 617) | screen=(-1548, 801)
+[2026-06-09 18:53:45] DOT SEARCH DEBUG | type=green_after_click | text_box=(849,612)-(879,627) | search_box=(795,570)-(847,669) | best_dot=(832, 618) | confidence=0.98 | threshold=0.65
+[2026-06-09 18:53:45] NAV verified after click: level selected | route=2-3 | green_dot=(832, 618) | confidence=0.98
+[2026-06-09 18:53:45] Route navigation completed for Route 5 | 2-3
+[2026-06-09 18:53:45] Entering freeze window.
+[2026-06-09 18:53:45] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 18:53:50] Freeze ended. Now looking for boss warning.
+[2026-06-09 18:55:00] Boss warning confirmed | region=battle_bottom | red_pixels=8864 | confidence=0.93. Blue-drop detector armed.
+[2026-06-09 18:55:03] BLUE chest detected | confidence=0.94 | location=(502, 745) | region=battle_bottom
+[2026-06-09 18:55:03] CONFIRMED BLUE DROP | reason=post_boss_blue_chest_and_log | blue_chest_recent=True | blue_log_recent=True | log_region=log_bottom | blue_pixels=239
+[2026-06-09 18:55:03] Blue drop confirmed. Opening blue chest before route advance.
+[2026-06-09 18:55:04] Clicking blue chest | mouse_before=(565, 942) | local=(495, 742) | screen=(-1885, 926) | blue_box=(474,726)-(530,764) | confidence=0.94
+[2026-06-09 18:55:05] Blue chest click completed.
+[2026-06-09 18:55:06] Advanced to Route 1 | nightmare | chapter_3 | 3-5
+[2026-06-09 18:55:07] Starting route navigation | target=nightmare | chapter_3 | 3-5
+[2026-06-09 18:55:07] Selecting difficulty/chapter | difficulty=nightmare | chapter=chapter_3
+[2026-06-09 18:55:07] Opening difficulty dropdown | current_anchor=normal | center=(807, 308) | confidence=1.00
+[2026-06-09 18:55:07] Click window point | label=difficulty_anchor_open | local=(807, 308) | screen=(-1573, 492)
+[2026-06-09 18:55:09] Clicking difficulty tab | difficulty=nightmare | center=(807, 351) | confidence=1.00
+[2026-06-09 18:55:09] Click window point | label=difficulty_tab_nightmare | local=(807, 351) | screen=(-1573, 535)
+[2026-06-09 18:55:11] Difficulty verified | difficulty=nightmare | anchor_confidence=1.00 | center=(809, 308)
+[2026-06-09 18:55:11] Chapter visual state | target=chapter_3 | current=chapter_2 | selected_center=(753, 346) | selected_confidence=1.00
+[2026-06-09 18:55:11] Chapter tab candidates | target=chapter_3 | chapter_1@(688, 345):1.00 | chapter_2@(753, 342):0.90 | chapter_3@(817, 346):0.94
+[2026-06-09 18:55:11] Clicking chapter tab | chapter=chapter_3 | center=(817, 346) | confidence=0.94
+[2026-06-09 18:55:11] Click window point | label=chapter_3 | local=(817, 346) | screen=(-1563, 530)
+[2026-06-09 18:55:12] Chapter verified | chapter=chapter_3 | confidence=1.00 | center=(816, 346)
+[2026-06-09 18:55:12] Difficulty/chapter selection completed | difficulty=nightmare | chapter=chapter_3
+[2026-06-09 18:55:13] NAV found level 3-5 on current view | context=before_scroll | confidence=0.95 | threshold=0.88 | center=(837, 537) | box=(823, 530)-(852, 545)
+[2026-06-09 18:55:13] DOT SEARCH DEBUG | type=green | text_box=(823,530)-(852,545) | search_box=(771,488)-(821,587) | best_dot=(786, 550) | confidence=0.26 | threshold=0.65
+[2026-06-09 18:55:13] DOT SEARCH DEBUG | type=white | text_box=(823,530)-(852,545) | search_box=(771,488)-(821,587) | best_dot=(806, 535) | confidence=1.00 | threshold=0.65
+[2026-06-09 18:55:13] Found selectable white dot | route=3-5 | dot_center=(806, 535) | confidence=1.00
+[2026-06-09 18:55:13] Click window point | label=level_dot_3-5 | local=(806, 535) | screen=(-1574, 719)
+[2026-06-09 18:55:14] DOT SEARCH DEBUG | type=green_after_click | text_box=(823,530)-(852,545) | search_box=(771,488)-(821,587) | best_dot=(806, 536) | confidence=0.98 | threshold=0.65
+[2026-06-09 18:55:14] NAV verified after click: level selected | route=3-5 | green_dot=(806, 536) | confidence=0.98
+[2026-06-09 18:55:14] Route navigation completed for Route 1 | 3-5
+[2026-06-09 18:55:14] Entering freeze window.
+[2026-06-09 18:55:14] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 18:55:19] Freeze ended. Now looking for boss warning.
+[2026-06-09 18:59:07] Boss warning confirmed | region=battle_bottom | red_pixels=17401 | confidence=0.93. Blue-drop detector armed.
+[2026-06-09 19:03:10] BLUE chest detected | confidence=0.94 | location=(502, 745) | region=battle_bottom
+[2026-06-09 19:03:10] CONFIRMED BLUE DROP | reason=post_boss_blue_chest_and_log | blue_chest_recent=True | blue_log_recent=True | log_region=log_bottom | blue_pixels=200
+[2026-06-09 19:03:10] Blue drop confirmed. Opening blue chest before route advance.
+[2026-06-09 19:03:11] Clicking blue chest | mouse_before=(813, 700) | local=(495, 742) | screen=(-1885, 926) | blue_box=(474,726)-(530,764) | confidence=0.94
+[2026-06-09 19:03:12] Blue chest click completed.
+[2026-06-09 19:03:13] Advanced to Route 2 | nightmare | chapter_1 | 1-9
+[2026-06-09 19:03:14] Starting route navigation | target=nightmare | chapter_1 | 1-9
+[2026-06-09 19:03:14] Selecting difficulty/chapter | difficulty=nightmare | chapter=chapter_1
+[2026-06-09 19:03:14] Difficulty already selected | difficulty=nightmare | anchor_confidence=1.00 | center=(809, 308)
+[2026-06-09 19:03:14] Chapter visual state | target=chapter_1 | current=chapter_3 | selected_center=(816, 346) | selected_confidence=1.00
+[2026-06-09 19:03:14] Chapter tab candidates | target=chapter_1 | chapter_1@(688, 345):1.00 | chapter_2@(753, 346):1.00 | chapter_2@(817, 342):0.87
+[2026-06-09 19:03:14] Clicking chapter tab | chapter=chapter_1 | center=(688, 345) | confidence=1.00
+[2026-06-09 19:03:14] Click window point | label=chapter_1 | local=(688, 345) | screen=(-1692, 529)
+[2026-06-09 19:03:16] Chapter verified | chapter=chapter_1 | confidence=1.00 | center=(689, 346)
+[2026-06-09 19:03:16] Difficulty/chapter selection completed | difficulty=nightmare | chapter=chapter_1
+[2026-06-09 19:03:16] NAV found level 1-9 on current view | context=before_scroll | confidence=0.97 | threshold=0.88 | center=(792, 431) | box=(777, 424)-(808, 439)
+[2026-06-09 19:03:16] DOT SEARCH DEBUG | type=green | text_box=(777,424)-(808,439) | search_box=(722,382)-(775,481) | best_dot=(758, 420) | confidence=0.25 | threshold=0.65
+[2026-06-09 19:03:16] DOT SEARCH DEBUG | type=white | text_box=(777,424)-(808,439) | search_box=(722,382)-(775,481) | best_dot=(760, 429) | confidence=1.00 | threshold=0.65
+[2026-06-09 19:03:16] Found selectable white dot | route=1-9 | dot_center=(760, 429) | confidence=1.00
+[2026-06-09 19:03:16] Click window point | label=level_dot_1-9 | local=(760, 429) | screen=(-1620, 613)
+[2026-06-09 19:03:17] DOT SEARCH DEBUG | type=green_after_click | text_box=(777,424)-(808,439) | search_box=(722,382)-(775,481) | best_dot=(760, 430) | confidence=0.98 | threshold=0.65
+[2026-06-09 19:03:17] NAV verified after click: level selected | route=1-9 | green_dot=(760, 430) | confidence=0.98
+[2026-06-09 19:03:17] Route navigation completed for Route 2 | 1-9
+[2026-06-09 19:03:17] Entering freeze window.
+[2026-06-09 19:03:18] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 19:03:23] Freeze ended. Now looking for boss warning.
+[2026-06-09 19:08:12] Boss warning confirmed | region=battle_bottom | red_pixels=3124 | confidence=0.92. Blue-drop detector armed.
+[2026-06-09 19:12:20] BLUE chest detected | confidence=0.94 | location=(502, 745) | region=battle_bottom
+[2026-06-09 19:12:20] CONFIRMED BLUE DROP | reason=post_boss_blue_chest_and_log | blue_chest_recent=True | blue_log_recent=True | log_region=log_bottom | blue_pixels=197
+[2026-06-09 19:12:20] Blue drop confirmed. Opening blue chest before route advance.
+[2026-06-09 19:12:21] Clicking blue chest | mouse_before=(1374, 59) | local=(495, 742) | screen=(-1885, 926) | blue_box=(474,726)-(530,764) | confidence=0.94
+[2026-06-09 19:12:21] Window focus warning: (183, 'SetForegroundWindow', 'Cannot create a file when that file already exists.')
+[2026-06-09 19:12:23] Blue chest click completed.
+[2026-06-09 19:12:23] Advanced to Route 3 | normal | chapter_3 | 3-8
+[2026-06-09 19:12:24] Starting route navigation | target=normal | chapter_3 | 3-8
+[2026-06-09 19:12:24] Selecting difficulty/chapter | difficulty=normal | chapter=chapter_3
+[2026-06-09 19:12:24] NAV FAILED: could not find current difficulty anchor | target=normal | best_anchor=normal | best_anchor_conf=0.35 | search_region=map_panel
+[2026-06-09 19:12:24] NAV FAILED: difficulty selection failed | difficulty=normal
+[2026-06-09 19:12:24] Route navigation FAILED during difficulty/chapter selection for Route 3
+[2026-06-09 19:12:24] Entering freeze window.
+[2026-06-09 19:12:25] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 19:12:30] Freeze ended. Now looking for boss warning.
+[2026-06-09 19:18:56] Boss warning confirmed | region=battle_bottom | red_pixels=17365 | confidence=0.96. Blue-drop detector armed.
+[2026-06-09 19:39:07] BLUE chest detected | confidence=0.94 | location=(502, 745) | region=battle_bottom
+[2026-06-09 19:39:07] CONFIRMED BLUE DROP | reason=post_boss_blue_chest_and_log | blue_chest_recent=True | blue_log_recent=True | log_region=log_bottom | blue_pixels=198
+[2026-06-09 19:39:07] Blue drop confirmed. Opening blue chest before route advance.
+[2026-06-09 19:39:08] Clicking blue chest | mouse_before=(1399, 164) | local=(495, 742) | screen=(-1738, 825) | blue_box=(474,726)-(530,764) | confidence=0.94
+[2026-06-09 19:39:09] Blue chest click completed.
+[2026-06-09 19:39:10] Advanced to Route 4 | normal | chapter_2 | 2-8
+[2026-06-09 19:39:11] Starting route navigation | target=normal | chapter_2 | 2-8
+[2026-06-09 19:39:11] Selecting difficulty/chapter | difficulty=normal | chapter=chapter_2
+[2026-06-09 19:39:11] Opening difficulty dropdown | current_anchor=nightmare | center=(809, 308) | confidence=1.00
+[2026-06-09 19:39:11] Click window point | label=difficulty_anchor_open | local=(809, 308) | screen=(-1424, 391)
+[2026-06-09 19:39:13] NAV FAILED: target difficulty tab not found after opening dropdown | target=normal | tab_confidence=0.44 | search_region=map_panel
+[2026-06-09 19:39:13] NAV FAILED: difficulty selection failed | difficulty=normal
+[2026-06-09 19:39:13] Route navigation FAILED during difficulty/chapter selection for Route 4
+[2026-06-09 19:39:13] Entering freeze window.
+[2026-06-09 19:39:13] Brown chest detected, leave it | confidence=1.00 | location=(533, 745) | region=battle_bottom
+[2026-06-09 19:39:18] Freeze ended. Now looking for boss warning.
+[2026-06-09 19:43:03] Boss warning confirmed | region=battle_bottom | red_pixels=17389 | confidence=0.96. Blue-drop detector armed.
+[2026-06-09 19:59:17] BLUE chest detected | confidence=0.94 | location=(237, 745) | region=battle_bottom
+[2026-06-09 19:59:17] CONFIRMED BLUE DROP | reason=post_boss_blue_chest_and_log | blue_chest_recent=True | blue_log_recent=True | log_region=log_bottom | blue_pixels=198
+[2026-06-09 19:59:17] Blue drop confirmed. Opening blue chest before route advance.
+[2026-06-09 19:59:18] Clicking blue chest | mouse_before=(268, 319) | local=(230, 742) | screen=(-2330, 1117) | blue_box=(209,726)-(265,764) | confidence=0.94
+[2026-06-09 19:59:18] Window focus warning: (183, 'SetForegroundWindow', 'Cannot create a file when that file already exists.')
+[2026-06-09 19:59:19] Blue chest click completed.
+[2026-06-09 19:59:20] Advanced to Route 5 | normal | chapter_2 | 2-3
+[2026-06-09 19:59:21] Starting route navigation | target=normal | chapter_2 | 2-3
+[2026-06-09 19:59:21] Selecting difficulty/chapter | difficulty=normal | chapter=chapter_2
+[2026-06-09 19:59:21] Opening difficulty dropdown | current_anchor=nightmare | center=(544, 308) | confidence=1.00
+[2026-06-09 19:59:21] Click window point | label=difficulty_anchor_open | local=(544, 308) | screen=(-2016, 683)
+[2026-06-09 19:59:22] Clicking difficulty tab | difficulty=normal | center=(542, 331) | confidence=1.00
+[2026-06-09 19:59:22] Click window point | label=difficulty_tab_normal | local=(542, 331) | screen=(-2018, 706)
+[2026-06-09 19:59:24] Difficulty verified | difficulty=normal | anchor_confidence=1.00 | center=(542, 308)
+[2026-06-09 19:59:24] Chapter visual state | target=chapter_2 | current=chapter_3 | selected_center=(551, 346) | selected_confidence=1.00
+[2026-06-09 19:59:24] Chapter tab candidates | target=chapter_2 | chapter_1@(423, 345):1.00 | chapter_2@(488, 346):1.00 | chapter_2@(552, 342):0.87
+[2026-06-09 19:59:24] Clicking chapter tab | chapter=chapter_2 | center=(488, 346) | confidence=1.00
+[2026-06-09 19:59:24] Click window point | label=chapter_2 | local=(488, 346) | screen=(-2072, 721)
+[2026-06-09 19:59:26] Chapter verified | chapter=chapter_2 | confidence=1.00 | center=(488, 346)
+[2026-06-09 19:59:26] Difficulty/chapter selection completed | difficulty=normal | chapter=chapter_2
+[2026-06-09 19:59:26] NAV rejected level 2-3 by Y position | context=before_scroll | center_y=559 < expected_y_min=560 | confidence=0.94
+[2026-06-09 19:59:30] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(-1811, 840) | repeat=20
+[2026-06-09 19:59:30] NAV rejected level 2-3 by Y position | context=down_1/4 | center_y=559 < expected_y_min=560 | confidence=0.94
+[2026-06-09 19:59:34] Scrolled map down | scroll_point_local=(749, 465) | scroll_point_screen=(-1811, 840) | repeat=20
+[2026-06-09 19:59:35] NAV rejected level 2-3 by Y position | context=down_2/4 | center_y=559 < expected_y_min=560 | confidence=0.94
