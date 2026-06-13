@@ -1,47 +1,79 @@
-# MAA-Task-Bar-Hero-CN
+# MAA TaskBar Hero
 
-MAA TaskBar Hero is a visual automation tool designed for the Steam game *TaskBarHero*. It uses screenshot analysis and template matching to interpret the game screen, automatically select farming routes, detect boss alerts, identify treasure chest drops, and run the farming process in a continuous loop.
+MAA TaskBar Hero is a visual automation tool designed for the Steam game **TaskBarHero**.
 
-## Current Language Support
+It uses screenshot analysis and template matching to interpret the game screen, automatically select farming routes, detect boss alerts, identify treasure chest drops, and run the farming process in a continuous loop.
 
-At the moment, this project only supports the **Chinese version** of the game UI.
+The project provides both **Chinese** and **English** application GUI packages. The core automation logic is the same between both versions; the main difference is the application interface language.
 
-The bot relies on visual templates for chapter tabs, difficulty buttons, level labels, boss warnings, chest drops, and other UI elements. Since the current template set was captured from the Chinese UI, the English version of the game may not work correctly yet.
+Concept and direction by **Marcus-Xu-04**.
+Built with Codex as a coding assistant.
+Shared for learning, experimentation, and automation research.
 
-English UI support is planned for a future update. If you are using the English version and want to test it manually, you may replace the images in the `templates/` folder with matching screenshots from your own game UI.
+---
 
-## Template Replacement / Localization Notes
+## What This Project Does
 
-MAA TaskBar Hero uses screenshot-based template matching. Because of this, replacement templates are sensitive to language, image quality, resolution, monitor scaling, and UI layout.
+MAA TaskBar Hero is built around external visual automation. It observes the game screen through screenshots, recognizes UI elements with image templates, and then performs normal mouse and keyboard actions.
 
-If you want to adapt the bot to another language version of the game, such as English, Russian, or another localized UI, you may replace the images inside the `templates/` folder with screenshots from your own game UI.
+The bot can help with:
 
-For best results:
+* selecting planned farming routes
+* switching difficulty, chapter, and level
+* verifying that the intended route was selected
+* detecting boss alerts
+* detecting treasure chest drops
+* prioritizing blue chest rewards
+* looping the farming process
+* exporting debug information when something fails
 
-1. Capture templates from the same monitor that will run the bot.
-2. Use the same game resolution and Windows display scaling during capture and runtime.
-3. Prefer 100% Windows display scaling if possible.
-4. Save templates as clean PNG files.
-5. Do not resize, compress, or upscale the template images.
-6. Keep each crop tight around the UI element.
-7. Replace all related templates together when needed.
+The bot does **not** read game memory, modify game files, intercept network traffic, or inject code into the game. It works only through visual recognition and normal input automation.
 
-For example, difficulty detection may require both:
+---
 
-```text
-templates/difficulty/anchor_difficulty_normal.png
-templates/difficulty/tab_difficulty_normal.png
-```
+## Package Versions
 
-The `anchor` template is the currently visible difficulty button before the dropdown is opened.
-The `tab` template is the difficulty option inside the opened dropdown.
+Two application GUI packages are provided:
 
-If the bot fails during navigation, check the generated debug screenshots under:
+* `MAA-Task-Bar-Hero-v1.2-CN.zip`
+  Chinese application GUI.
 
-```text
-debug_screenshots/nav_failures/
-```
+* `MAA-Task-Bar-Hero-v1.2-EN.zip`
+  English application GUI.
 
-These screenshots can help identify which template is failing to match.
+Both packages use the same backend automation logic. Bug fixes and core behavior changes apply to both versions unless stated otherwise.
 
-A low confidence value, such as `0.30` or `0.40`, usually means the template does not visually match the current game UI. This can happen if the template was captured from a different language, resolution, scaling setting, monitor, or degraded image file.
+---
+
+## Important Setup Requirement
+
+Please keep the game at **1x / 100% zoom**.
+
+Game/browser zoom levels such as **1.25x, 1.5x, and 2x are not currently supported**. These zoom modes change the actual rendered game UI pixels and may cause visual template recognition to fail.
+
+Multi-monitor setups, negative-coordinate monitor layouts, and high-resolution displays have been improved, but the game UI itself should remain at **1x / 100%**.
+
+---
+
+## Language and Template Support
+
+The application GUI is available in Chinese and English packages.
+
+Game UI compatibility depends on the visual templates included in the package. MAA TaskBar Hero relies on screenshot templates for difficulty buttons, chapter tabs, level labels, boss warnings, chest drops, storage/backpack buttons, and other UI elements.
+
+If the game UI language uses different text or images, the templates inside the `templates/` folder may need to be replaced.
+
+In short:
+
+* Application GUI language: Chinese / English packages are available.
+* Core automation logic: shared between both packages.
+* Game UI recognition: depends on the templates included in the package.
+* Game zoom: must stay at 1x / 100%.
+
+---
+
+## Safety and Debugging
+
+MAA TaskBar Hero includes route verification checks before continuing automation. If the selected difficulty, chapter, or level cannot be verified, the bot should fail safely instead of continuing on the wrong route.
+
+The GUI also includes an **Export Debug ZIP** option. If the bot fails during navigation or recognition, please include the Debug ZIP when reporting the issue. It may contain logs, screenshots, UI diagnostics, and navigation failure records that help identify the problem.
