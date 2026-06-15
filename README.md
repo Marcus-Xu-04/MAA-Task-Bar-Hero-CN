@@ -77,3 +77,13 @@ In short:
 MAA TaskBar Hero includes route verification checks before continuing automation. If the selected difficulty, chapter, or level cannot be verified, the bot should fail safely instead of continuing on the wrong route.
 
 The GUI also includes an **Export Debug ZIP** option. If the bot fails during navigation or recognition, please include the Debug ZIP when reporting the issue. It may contain logs, screenshots, UI diagnostics, and navigation failure records that help identify the problem.
+
+---
+
+## Project Scope and Disclaimer
+
+This project is an experimental visual automation project. It does not read game memory, modify game files, inject into game processes, or intercept network traffic. It works by analyzing screenshots and performing normal mouse/keyboard-style automation.
+
+This project is shared for learning, experimentation, and automation research. Use it at your own risk. The author does not provide support for anti-cheat bypassing, anti-detection work, software cracking, anti-cracking services, commercial resale, or paid automation services.
+
+Compatibility is not guaranteed. The tool may break after game updates, UI changes, different monitor setups, DPI scaling, window position changes, or unsupported zoom settings.
