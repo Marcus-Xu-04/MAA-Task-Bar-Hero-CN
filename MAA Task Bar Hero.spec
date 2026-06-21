@@ -5,7 +5,7 @@ a = Analysis(
     ['route_planner_gui.py'],
     pathex=[],
     binaries=[],
-    datas=[('templates', 'templates')],
+    datas=[('templates', 'templates'), ('config.json', '.'), ('farm_plan.json', '.')],
     hiddenimports=['win32timezone'],
     hookspath=[],
     hooksconfig={},
