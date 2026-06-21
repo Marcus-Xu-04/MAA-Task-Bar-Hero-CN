@@ -1,11 +1,12 @@
 [
     {
         "name": "Route 1",
-        "display_name": "Lv50 | Nightmare | 3-5",
-        "difficulty": "nightmare",
+        "display_name": "80级 | 折磨 | 3-9",
+        "chest_tier": 80,
+        "difficulty": "torment",
         "chapter": "chapter_3",
-        "level": "3-5",
-        "level_template": "templates/levels/level_3_5.png",
+        "level": "3-9",
+        "level_template": "templates/levels/level_3_9.png",
         "level_match_threshold": 0.88,
         "search_order": [
             "up",
@@ -14,76 +15,7 @@
             "down"
         ],
         "enabled": true,
-        "note": ""
-    },
-    {
-        "name": "Route 2",
-        "display_name": "Lv40 | Nightmare | 1-9",
-        "difficulty": "nightmare",
-        "chapter": "chapter_1",
-        "level": "1-9",
-        "level_template": "templates/levels/level_1_9.png",
-        "level_match_threshold": 0.88,
-        "search_order": [
-            "up",
-            "down",
-            "up",
-            "down"
-        ],
-        "enabled": true,
-        "note": ""
-    },
-    {
-        "name": "Route 3",
-        "display_name": "Lv30 | Normal | 3-8",
-        "difficulty": "normal",
-        "chapter": "chapter_3",
-        "level": "3-8",
-        "level_template": "templates/levels/level_3_8.png",
-        "level_match_threshold": 0.88,
-        "search_order": [
-            "up",
-            "down",
-            "up",
-            "down"
-        ],
-        "enabled": true,
-        "note": ""
-    },
-    {
-        "name": "Route 4",
-        "display_name": "Lv20 | Normal | 2-8",
-        "difficulty": "normal",
-        "chapter": "chapter_2",
-        "level": "2-8",
-        "level_template": "templates/levels/level_2_8.png",
-        "level_match_threshold": 0.88,
-        "search_order": [
-            "down",
-            "up",
-            "down",
-            "up"
-        ],
-        "enabled": true,
-        "note": ""
-    },
-    {
-        "name": "Route 5",
-        "display_name": "Lv15 | Normal | 2-3",
-        "difficulty": "normal",
-        "chapter": "chapter_2",
-        "level": "2-3",
-        "level_template": "templates/levels/level_2_3.png",
-        "level_match_threshold": 0.92,
-        "search_order": [
-            "down",
-            "up",
-            "down",
-            "up"
-        ],
-        "expected_y_min": 560,
-        "expected_y_max": 700,
-        "enabled": true,
-        "note": ""
+        "note": "",
+        "no_chest_retries": 1
     }
 ]

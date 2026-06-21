@@ -1,0 +1,53 @@
+# Python bytecode and test/tool caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local Python environments
+.venv/
+venv/
+env/
+
+# PyInstaller and packaged application output
+# Keep the checked-in .spec file and build scripts; publish binaries via GitHub Releases.
+build/
+dist/
+*.exe
+*.zip
+
+# Runtime logs and generated debug exports
+debug/
+debug_screenshots/
+logs/
+*.log
+detection_log.txt
+bot_console_current_session.txt
+MAA-TBH-debug-*.zip
+
+# Runtime screenshots and diagnostics if written outside debug folders
+latest_raw_screenshot.png
+latest_annotated.png
+latest_diagnostic_annotated.png
+export_current_screenshot.png
+export_current_annotated.png
+stash_grid_annotated.png
+stash_last_slot_crop.png
+stash_last_slot_annotated.png
+stash_last_slot_debug.png
+
+# Temporary/editor/OS files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
